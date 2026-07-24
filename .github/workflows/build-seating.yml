@@ -1,0 +1,34 @@
+name: Build seating.json
+
+on:
+  push:
+    branches: [main]
+    paths:
+      - seating.xlsx
+      - scripts/convert.py
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  convert:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - run: pip install openpyxl
+
+      - run: python scripts/convert.py
+
+      - name: Commit regenerated seating.json
+        run: |
+          git config user.name "seating-bot"
+          git config user.email "actions@users.noreply.github.com"
+          git add seating.json
+          git diff --cached --quiet || git commit -m "Regenerate seating.json from seating.xlsx"
+          git push
