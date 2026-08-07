@@ -34,7 +34,12 @@ def die(message):
 
 
 def git(*args, check=True):
-    r = subprocess.run(["git", "-C", REPO, *args], capture_output=True, text=True)
+    # Never let git open an interactive username/password prompt: GitHub
+    # Desktop keeps its login somewhere the git command cannot read, so a
+    # prompt would just hang or nag. Fail fast and hand over to Desktop.
+    env = dict(os.environ, GIT_TERMINAL_PROMPT="0", GIT_ASKPASS="/usr/bin/false",
+               SSH_ASKPASS="/usr/bin/false", GCM_INTERACTIVE="never")
+    r = subprocess.run(["git", "-C", REPO, *args], capture_output=True, text=True, env=env)
     if check and r.returncode != 0:
         die(f"Git step failed:\n\n{' '.join(args)}\n\n{r.stderr.strip()[:600]}")
     return r
@@ -77,38 +82,28 @@ output = (run.stdout + run.stderr).strip()
 if run.returncode != 0:
     die(f"The FEHD check could not finish.\n\n{output[-600:]}")
 
-def publish(message_file=None, fallback="FEHD checked, no changes"):
-    """Commit and push whatever changed. Returns False if the push failed."""
-    git("add", "--", "seating.xlsx", "docs/status.json")
-    if not git("diff", "--cached", "--quiet", check=False).returncode:
-        return True  # nothing staged; already in step with GitHub
-    if message_file and os.path.exists(message_file):
-        git("commit", "-F", message_file)
-    else:
-        git("commit", "-m", fallback)
-    return git("push", "origin", "main", check=False).returncode == 0
-
-
 summary_path = os.path.join(REPO, "summary.json")
 changed = os.path.exists(summary_path) and \
     bool(git("status", "--porcelain", "--", "seating.xlsx").stdout.strip())
 
 if not changed:
-    # Still publish the refreshed timestamp so the phone page stays honest.
-    pushed = publish()
-    note = "" if pushed else "\n\n(Could not reach GitHub to update the phone page.)"
-    dialog("No update required.\n\n" + run.stdout.strip() + note)
+    # Nothing worth recording. Put status.json back as it was rather than
+    # committing a new timestamp: a commit here would mean a pointless push
+    # (and a password prompt) every single time the button is pressed. The
+    # scheduled 3pm run keeps the phone page's timestamp fresh instead.
+    git("checkout", "--", "docs/status.json", check=False)
+    dialog("No update required.\n\n" + run.stdout.strip())
     sys.exit(0)
 
 with open(summary_path, encoding="utf-8") as f:
     summary = json.load(f)
 
-if not publish(os.path.join(REPO, "summary.txt")):
-    die("The spreadsheet was updated and committed, but the push to GitHub failed.\n\n"
-        "Open GitHub Desktop and click 'Push origin' to finish.")
+git("add", "--", "seating.xlsx", "docs/status.json")
+git("commit", "-F", os.path.join(REPO, "summary.txt"))
+pushed = git("push", "origin", "main", check=False).returncode == 0
 
 added, removed = summary["added"], summary["removed"]
-parts = ["✅ Updated and pushed to GitHub.",
+parts = ["✅ Spreadsheet updated." if not pushed else "✅ Updated and pushed to GitHub.",
          f"FEHD list dated {summary['fehd_date']}.", ""]
 parts.append(f"NEW RESTAURANTS ({len(added)}):")
 parts += names(added, "+") if added else ["   none"]
@@ -117,5 +112,8 @@ parts.append(f"REMOVED — moved to the 'Delisted' tab ({len(removed)}):")
 parts += names(removed, "−") if removed else ["   none"]
 if added:
     parts += ["", "Remember to set indoor/outdoor for the new ones."]
+if not pushed:
+    parts += ["", "⚠️ Saved and committed on this Mac, but not sent to GitHub.",
+              "Open GitHub Desktop and click 'Push origin' to finish."]
 
 dialog("\n".join(parts))
