@@ -3,3 +3,7 @@
 _to_delete/
 *.pdf
 seating prior.xlsx
+
+# Sync artefacts
+summary.txt
+summary.json

@@ -1,0 +1,50 @@
+name: Sync FEHD list
+
+on:
+  schedule:
+    # 3:00pm Hong Kong time every weekday. GitHub cron is UTC, and HKT has
+    # no daylight saving, so 15:00 HKT is always 07:00 UTC.
+    - cron: "0 7 * * 1-5"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  sync:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - run: pip install openpyxl requests pypdf
+
+      - name: Check FEHD and update seating.xlsx
+        run: python scripts/update_list.py
+
+      - name: Rebuild seating.json
+        # Done here rather than left to build-seating.yml: a push made with
+        # GITHUB_TOKEN does not trigger other workflows, so that one would
+        # never fire and seating.json would go stale.
+        run: python scripts/convert.py
+
+      - name: Commit changes
+        run: |
+          git config user.name "seating-bot"
+          git config user.email "actions@users.noreply.github.com"
+          # docs/status.json is refreshed on every run so the phone page can
+          # show "last checked", even on days when nothing changed.
+          git add seating.xlsx seating.json docs/status.json
+          if git diff --cached --quiet; then
+            echo "Nothing changed."
+            exit 0
+          fi
+          if [ -f summary.txt ]; then
+            git commit -F summary.txt
+          else
+            git commit -m "FEHD checked, no changes"
+          fi
+          git push
