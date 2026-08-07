@@ -1,9 +1,28 @@
 {
-  "state": "up_to_date",
+  "state": "updated",
   "message": "",
-  "last_checked_hkt": "2026-08-07 12:01",
-  "fehd_date": "August 6",
-  "total": 983,
-  "last_change": null,
-  "history": []
+  "last_checked_hkt": "2026-08-07 14:39",
+  "fehd_date": "August 7",
+  "total": 984,
+  "last_change": {
+    "date": "2026-08-07",
+    "fehd_date": "August 7",
+    "added": [
+      {
+        "licence": "2291805533",
+        "en": "QUE and TSUKANTO",
+        "tc": "QUE 及 豚勝",
+        "district": "Kwai Tsing"
+      }
+    ],
+    "removed": []
+  },
+  "history": [
+    {
+      "checked": "2026-08-07 14:39",
+      "fehd_date": "August 7",
+      "added": 1,
+      "removed": 0
+    }
+  ]
 }
