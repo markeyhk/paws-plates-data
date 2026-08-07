@@ -15,8 +15,11 @@ MAX_LISTED = 12
 
 def dialog(message, title="Paws & Plates", icon="note"):
     """Show a Mac popup. argv avoids any quote-escaping problems."""
-    if os.environ.get("PAWS_NO_DIALOG"):  # set by tests; prints instead
-        print(f"[{icon}] {message}")
+    # Always echo to stdout as well. When launched from the app bundle that
+    # goes to ~/Library/Logs/paws-plates.log, so the log shows what the user
+    # was actually told instead of appearing to stop halfway.
+    print(f"[{icon}] {message}", flush=True)
+    if os.environ.get("PAWS_NO_DIALOG"):  # set by tests; skips the popup
         return
     subprocess.run([
         "osascript",
