@@ -1,30 +1,35 @@
 {
-  "state": "up_to_date",
+  "state": "updated",
   "message": "",
-  "last_checked_hkt": "2026-08-10 16:21",
-  "fehd_date": "August 10",
-  "total": 984,
+  "last_checked_hkt": "2026-08-11 16:04",
+  "fehd_date": "August 11",
+  "total": 986,
   "last_change": {
-    "date": "2026-08-10",
-    "fehd_date": "August 10",
+    "date": "2026-08-11",
+    "fehd_date": "August 11",
     "added": [
       {
-        "licence": "2212824304",
-        "en": "Anytime",
-        "tc": "沒有紀錄",
-        "district": "Wan Chai"
+        "licence": "2215801915",
+        "en": "Zola Beach Bar",
+        "tc": "Zola Beach Bar",
+        "district": "Southern"
+      },
+      {
+        "licence": "3161808504",
+        "en": "HARU",
+        "tc": "旭宵食堂",
+        "district": "Yau Tsim"
       }
     ],
-    "removed": [
-      {
-        "licence": "2263285408",
-        "en": "馮記美食",
-        "tc": "馮記美食",
-        "seating": ""
-      }
-    ]
+    "removed": []
   },
   "history": [
+    {
+      "checked": "2026-08-11 16:04",
+      "fehd_date": "August 11",
+      "added": 2,
+      "removed": 0
+    },
     {
       "checked": "2026-08-10 15:29",
       "fehd_date": "August 10",
