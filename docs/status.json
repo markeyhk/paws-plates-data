@@ -1,29 +1,29 @@
 {
   "state": "updated",
   "message": "",
-  "last_checked_hkt": "2026-08-11 16:04",
-  "fehd_date": "August 11",
-  "total": 986,
+  "last_checked_hkt": "2026-08-12 16:09",
+  "fehd_date": "August 12",
+  "total": 987,
   "last_change": {
-    "date": "2026-08-11",
-    "fehd_date": "August 11",
+    "date": "2026-08-12",
+    "fehd_date": "August 12",
     "added": [
       {
-        "licence": "2215801915",
-        "en": "Zola Beach Bar",
-        "tc": "Zola Beach Bar",
-        "district": "Southern"
-      },
-      {
-        "licence": "3161808504",
-        "en": "HARU",
-        "tc": "旭宵食堂",
+        "licence": "2261824223",
+        "en": "HTIKE EASY",
+        "tc": "泰簡",
         "district": "Yau Tsim"
       }
     ],
     "removed": []
   },
   "history": [
+    {
+      "checked": "2026-08-12 16:09",
+      "fehd_date": "August 12",
+      "added": 1,
+      "removed": 0
+    },
     {
       "checked": "2026-08-11 16:04",
       "fehd_date": "August 11",
