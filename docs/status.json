@@ -1,23 +1,48 @@
 {
   "state": "updated",
   "message": "",
-  "last_checked_hkt": "2026-08-12 16:09",
-  "fehd_date": "August 12",
-  "total": 987,
+  "last_checked_hkt": "2026-08-13 16:11",
+  "fehd_date": "August 13",
+  "total": 989,
   "last_change": {
-    "date": "2026-08-12",
-    "fehd_date": "August 12",
+    "date": "2026-08-13",
+    "fehd_date": "August 13",
     "added": [
       {
-        "licence": "2261824223",
-        "en": "HTIKE EASY",
-        "tc": "泰簡",
-        "district": "Yau Tsim"
+        "licence": "3152804436",
+        "en": "% Arabica",
+        "tc": "% Arabica",
+        "district": "Kowloon City"
+      },
+      {
+        "licence": "3152803646",
+        "en": "YOI COFFEE & BAKERY",
+        "tc": "YOI COFFEE & BAKERY",
+        "district": "Kowloon City"
+      },
+      {
+        "licence": "2263806948",
+        "en": "雞仔麵",
+        "tc": "雞仔麵",
+        "district": "Sham Shui Po"
       }
     ],
-    "removed": []
+    "removed": [
+      {
+        "licence": "3118811517",
+        "en": "COMMAA",
+        "tc": "咖啡逗",
+        "seating": ""
+      }
+    ]
   },
   "history": [
+    {
+      "checked": "2026-08-13 16:11",
+      "fehd_date": "August 13",
+      "added": 3,
+      "removed": 1
+    },
     {
       "checked": "2026-08-12 16:09",
       "fehd_date": "August 12",
