@@ -1,30 +1,48 @@
 {
-  "state": "up_to_date",
-  "message": "FEHD re-dated to August 17; no restaurants changed.",
-  "last_checked_hkt": "2026-08-17 15:43",
-  "fehd_date": "August 17",
-  "total": 989,
+  "state": "updated",
+  "message": "",
+  "last_checked_hkt": "2026-08-18 15:30",
+  "fehd_date": "August 18",
+  "total": 987,
   "last_change": {
-    "date": "2026-08-14",
-    "fehd_date": "August 14",
+    "date": "2026-08-18",
+    "fehd_date": "August 18",
     "added": [
       {
-        "licence": "2215802194",
-        "en": "Grand Ballroom/Pier Lounge/Pier Bar",
-        "tc": "大宴會廳/Pier酒廊/Pier吧",
-        "district": "Southern"
+        "licence": "2261806281",
+        "en": "GANBEI YAKITORI RESTAURANT",
+        "tc": "乾杯串燒居酒屋",
+        "district": "Yau Tsim"
       }
     ],
     "removed": [
       {
-        "licence": "2252809585",
-        "en": "阿不鴨不",
-        "tc": "阿不鴨不",
+        "licence": "2262813165",
+        "en": "Champak restaurant",
+        "tc": "青花",
         "seating": ""
+      },
+      {
+        "licence": "2262814168",
+        "en": "古今",
+        "tc": "古今",
+        "seating": ""
+      },
+      {
+        "licence": "2262814636",
+        "en": "Chuan Palace",
+        "tc": "念川居",
+        "seating": "indoor"
       }
     ]
   },
   "history": [
+    {
+      "checked": "2026-08-18 15:30",
+      "fehd_date": "August 18",
+      "added": 1,
+      "removed": 3
+    },
     {
       "checked": "2026-08-14 16:07",
       "fehd_date": "August 14",
