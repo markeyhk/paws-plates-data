@@ -1,42 +1,41 @@
 {
   "state": "updated",
   "message": "",
-  "last_checked_hkt": "2026-08-18 15:30",
-  "fehd_date": "August 18",
-  "total": 987,
+  "last_checked_hkt": "2026-08-19 15:30",
+  "fehd_date": "August 19",
+  "total": 990,
   "last_change": {
-    "date": "2026-08-18",
-    "fehd_date": "August 18",
+    "date": "2026-08-19",
+    "fehd_date": "August 19",
     "added": [
       {
-        "licence": "2261806281",
-        "en": "GANBEI YAKITORI RESTAURANT",
-        "tc": "乾杯串燒居酒屋",
-        "district": "Yau Tsim"
+        "licence": "3197802312",
+        "en": "Moon Ocean",
+        "tc": "Moon Ocean",
+        "district": "Sha Tin"
+      },
+      {
+        "licence": "2263809071",
+        "en": "URBAN Cafe",
+        "tc": "URBAN Cafe",
+        "district": "Sham Shui Po"
+      },
+      {
+        "licence": "3194803299",
+        "en": "MASAM",
+        "tc": "MASAM",
+        "district": "Yuen Long"
       }
     ],
-    "removed": [
-      {
-        "licence": "2262813165",
-        "en": "Champak restaurant",
-        "tc": "青花",
-        "seating": ""
-      },
-      {
-        "licence": "2262814168",
-        "en": "古今",
-        "tc": "古今",
-        "seating": ""
-      },
-      {
-        "licence": "2262814636",
-        "en": "Chuan Palace",
-        "tc": "念川居",
-        "seating": "indoor"
-      }
-    ]
+    "removed": []
   },
   "history": [
+    {
+      "checked": "2026-08-19 15:30",
+      "fehd_date": "August 19",
+      "added": 3,
+      "removed": 0
+    },
     {
       "checked": "2026-08-18 15:30",
       "fehd_date": "August 18",
