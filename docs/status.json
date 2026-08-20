@@ -1,35 +1,29 @@
 {
   "state": "updated",
   "message": "",
-  "last_checked_hkt": "2026-08-19 15:30",
-  "fehd_date": "August 19",
-  "total": 990,
+  "last_checked_hkt": "2026-08-20 15:33",
+  "fehd_date": "August 20",
+  "total": 991,
   "last_change": {
-    "date": "2026-08-19",
-    "fehd_date": "August 19",
+    "date": "2026-08-20",
+    "fehd_date": "August 20",
     "added": [
       {
-        "licence": "3197802312",
-        "en": "Moon Ocean",
-        "tc": "Moon Ocean",
-        "district": "Sha Tin"
-      },
-      {
-        "licence": "2263809071",
-        "en": "URBAN Cafe",
-        "tc": "URBAN Cafe",
-        "district": "Sham Shui Po"
-      },
-      {
-        "licence": "3194803299",
-        "en": "MASAM",
-        "tc": "MASAM",
-        "district": "Yuen Long"
+        "licence": "3118809361",
+        "en": "For Single",
+        "tc": "For Single",
+        "district": "Central/Western"
       }
     ],
     "removed": []
   },
   "history": [
+    {
+      "checked": "2026-08-20 15:33",
+      "fehd_date": "August 20",
+      "added": 1,
+      "removed": 0
+    },
     {
       "checked": "2026-08-19 15:30",
       "fehd_date": "August 19",
