@@ -1,23 +1,42 @@
 {
   "state": "updated",
   "message": "",
-  "last_checked_hkt": "2026-08-20 15:33",
-  "fehd_date": "August 20",
-  "total": 991,
+  "last_checked_hkt": "2026-08-21 15:35",
+  "fehd_date": "August 21",
+  "total": 992,
   "last_change": {
-    "date": "2026-08-20",
-    "fehd_date": "August 20",
+    "date": "2026-08-21",
+    "fehd_date": "August 21",
     "added": [
       {
-        "licence": "3118809361",
-        "en": "For Single",
-        "tc": "For Single",
+        "licence": "2218810215",
+        "en": "Baci",
+        "tc": "Baci",
         "district": "Central/Western"
+      },
+      {
+        "licence": "2295000561",
+        "en": "105冰室",
+        "tc": "105冰室",
+        "district": "Tai Po"
       }
     ],
-    "removed": []
+    "removed": [
+      {
+        "licence": "2213157285",
+        "en": "Queen Victoria 8",
+        "tc": "八公館",
+        "seating": "indoor"
+      }
+    ]
   },
   "history": [
+    {
+      "checked": "2026-08-21 15:35",
+      "fehd_date": "August 21",
+      "added": 2,
+      "removed": 1
+    },
     {
       "checked": "2026-08-20 15:33",
       "fehd_date": "August 20",
