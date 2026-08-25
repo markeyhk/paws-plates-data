@@ -1,36 +1,36 @@
 {
-  "state": "up_to_date",
-  "message": "FEHD re-dated to August 24; no restaurants changed.",
-  "last_checked_hkt": "2026-08-24 15:50",
-  "fehd_date": "August 24",
+  "state": "updated",
+  "message": "",
+  "last_checked_hkt": "2026-08-25 15:36",
+  "fehd_date": "August 25",
   "total": 992,
   "last_change": {
-    "date": "2026-08-21",
-    "fehd_date": "August 21",
+    "date": "2026-08-25",
+    "fehd_date": "August 25",
     "added": [
       {
-        "licence": "2218810215",
-        "en": "Baci",
-        "tc": "Baci",
+        "licence": "3118811720",
+        "en": "Sun Museum",
+        "tc": "Sun Museum",
         "district": "Central/Western"
-      },
-      {
-        "licence": "2295000561",
-        "en": "105冰室",
-        "tc": "105冰室",
-        "district": "Tai Po"
       }
     ],
     "removed": [
       {
-        "licence": "2213157285",
-        "en": "Queen Victoria 8",
-        "tc": "八公館",
-        "seating": "indoor"
+        "licence": "2292805646",
+        "en": "味苑",
+        "tc": "味苑",
+        "seating": ""
       }
     ]
   },
   "history": [
+    {
+      "checked": "2026-08-25 15:36",
+      "fehd_date": "August 25",
+      "added": 1,
+      "removed": 1
+    },
     {
       "checked": "2026-08-21 15:35",
       "fehd_date": "August 21",
