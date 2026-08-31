@@ -208,6 +208,7 @@
     "3194803563": "indoor",
     "2294811940": "indoor",
     "3152804302": "indoor",
+    "2295803182": "outdoor",
     "3161808568": "indoor",
     "3192803329": "indoor",
     "3197801984": "indoor"
@@ -10690,7 +10691,7 @@
       "name_zh": "BILLOW BAR SEAFOOD BISTRO",
       "district": "Tai Po",
       "address": "SHOP B, G/F, 2 HUNG LAM DRIVE, TAI PO KAU, NEW TERRITORIES",
-      "seating": null,
+      "seating": "outdoor",
       "telephone": "2657 6628",
       "website": "https://www.lake-house.co/billow",
       "mapkit": "NO",
