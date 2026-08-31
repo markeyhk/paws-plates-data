@@ -835,9 +835,9 @@
       "address": "SHOP NO. 106, LEVEL ONE, PEAK GALLERIA, 118 PEAK ROAD, CENTRAL, HONG KONG",
       "seating": "indoor",
       "telephone": "+852 2310 0180",
-      "website": "https://www.facebook.com/phicoffeeandpancakescentral",
+      "website": "https://www.instagram.com/phi.coffee.pancake/",
       "mapkit": "YES - telephone only",
-      "contact_source": "MapKit"
+      "contact_source": "MapKit + User-provided Instagram"
     },
     "2218813418": {
       "name_en": "PIZZERIA ITALIA",
@@ -5114,9 +5114,9 @@
       "address": "SHOP NO. 2116 & SEATING AREA OPPOSITE TO SHOP NO. 2116, LEVEL 2, MOSTOWN, NO. 18 ON LUK STREET, MA ON SHAN, SHA TIN, NEW TERRITORIES",
       "seating": null,
       "telephone": "+852 2328 0102",
-      "website": null,
+      "website": "https://www.instagram.com/phi.coffee.pancake/",
       "mapkit": "YES - telephone only",
-      "contact_source": "MapKit"
+      "contact_source": "MapKit + User-provided Instagram"
     },
     "3197802835": {
       "name_en": "PHI Coffee & Pancake / Jollibean",
@@ -5410,7 +5410,7 @@
       "district": "Sha Tin",
       "address": "UNIT S003D, G/F, BUILDING 1E, PHASE ONE, HONG KONG SCIENCE PARK, PAK SHEK KOK, SHA TIN, NEW TERRITORIES",
       "seating": "indoor",
-      "telephone": null,
+      "telephone": "26179188",
       "website": "https://www.instagram.com/loksinrestaurant_hkstp",
       "mapkit": "NO",
       "contact_source": "Chrome Instagram"
@@ -6554,7 +6554,7 @@
       "district": "Tai Po",
       "address": "SHOP NO. 13, G/F, SILICON LANE, 63 YAU KING LANE, TAI PO, NEW TERRITORIES",
       "seating": null,
-      "telephone": null,
+      "telephone": "66099528",
       "website": "https://www.adaywe11spent.com/?utm_source=google&utm_medium=organic&utm_campaign=gbp_profile",
       "mapkit": "NO",
       "contact_source": "Chrome website"
@@ -11107,7 +11107,7 @@
       "name_zh": "手工咖啡",
       "district": "Sai Kung",
       "address": "G/F, NO. 34 SEE CHEUNG STREET, SAI KUNG, NEW TERRITORIES",
-      "seating": null,
+      "seating": "4888",
       "telephone": "60938085",
       "website": "https://www.facebook.com/riascoffee/",
       "mapkit": "YES - website only",
