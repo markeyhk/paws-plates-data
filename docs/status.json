@@ -1,30 +1,29 @@
 {
-  "state": "up_to_date",
+  "state": "updated",
   "message": "",
-  "last_checked_hkt": "2026-08-31 11:09",
-  "fehd_date": "August 28",
-  "total": 991,
+  "last_checked_hkt": "2026-08-31 18:36",
+  "fehd_date": "August 31",
+  "total": 992,
   "last_change": {
-    "date": "2026-08-28",
-    "fehd_date": "August 27",
+    "date": "2026-08-31",
+    "fehd_date": "August 31",
     "added": [
       {
-        "licence": "3198800094",
-        "en": "RIAS",
-        "tc": "手工咖啡",
-        "district": "Sai Kung"
+        "licence": "2296803666",
+        "en": "褔滿庭",
+        "tc": "褔滿庭",
+        "district": "North"
       }
     ],
-    "removed": [
-      {
-        "licence": "3192802335",
-        "en": "Retold",
-        "tc": "Retold",
-        "seating": ""
-      }
-    ]
+    "removed": []
   },
   "history": [
+    {
+      "checked": "2026-08-31 18:36",
+      "fehd_date": "August 31",
+      "added": 1,
+      "removed": 0
+    },
     {
       "checked": "2026-08-28 01:59",
       "fehd_date": "August 27",

@@ -11113,6 +11113,17 @@
       "website": "https://www.facebook.com/riascoffee/",
       "mapkit": "YES - website only",
       "contact_source": "MapKit"
+    },
+    "2296803666": {
+      "name_en": "褔滿庭",
+      "name_zh": "褔滿庭",
+      "district": "North",
+      "address": "SHOP NOS. A83-A98, A102, A103 & A106, 1/F, FLORA PLAZA, 88 PAK WO ROAD, FANLING, NEW TERRITORIES",
+      "seating": null,
+      "telephone": "28868128",
+      "website": "https://s.openrice.com/QrKS0r2OD00~dyWAeDAYd",
+      "mapkit": null,
+      "contact_source": "OpenRice"
     }
   }
 }
