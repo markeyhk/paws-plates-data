@@ -11126,6 +11126,17 @@
       "website": "https://www.floraplaza.com.hk/html/tc/dining",
       "mapkit": null,
       "contact_source": "OpenRice"
+    },
+    "3195801713": {
+      "name_en": "BLA BLA by sensory ZERO",
+      "name_zh": "BLA BLA by sensory ZERO",
+      "district": "Tai Po",
+      "address": "SHOP NO. G12, G/F, GO PARK, 9 HOI YING ROAD, TAI PO, NEW TERRITORIES",
+      "seating": null,
+      "telephone": null,
+      "website": null,
+      "mapkit": null,
+      "contact_source": null
     }
   }
 }

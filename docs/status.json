@@ -1,23 +1,29 @@
 {
   "state": "updated",
   "message": "",
-  "last_checked_hkt": "2026-08-31 18:36",
-  "fehd_date": "August 31",
-  "total": 992,
+  "last_checked_hkt": "2026-09-01 16:26",
+  "fehd_date": "September 1",
+  "total": 993,
   "last_change": {
-    "date": "2026-08-31",
-    "fehd_date": "August 31",
+    "date": "2026-09-01",
+    "fehd_date": "September 1",
     "added": [
       {
-        "licence": "2296803666",
-        "en": "褔滿庭",
-        "tc": "褔滿庭",
-        "district": "North"
+        "licence": "3195801713",
+        "en": "BLA BLA by sensory ZERO",
+        "tc": "BLA BLA by sensory ZERO",
+        "district": "Tai Po"
       }
     ],
     "removed": []
   },
   "history": [
+    {
+      "checked": "2026-09-01 16:26",
+      "fehd_date": "September 1",
+      "added": 1,
+      "removed": 0
+    },
     {
       "checked": "2026-08-31 18:36",
       "fehd_date": "August 31",
