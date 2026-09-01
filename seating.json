@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-31",
+  "updated": "2026-09-01",
   "arrangements": {
     "3118811298": "indoor",
     "3118810046": "indoor",
@@ -118,6 +118,7 @@
     "2263808148": "indoor",
     "2263809099": "indoor",
     "3163802625": "indoor",
+    "2263807808": "indoor",
     "3163802573": "indoor",
     "3163802838": "indoor",
     "2263809576": "indoor",
@@ -5675,7 +5676,7 @@
       "name_zh": "望月樓",
       "district": "Sham Shui Po",
       "address": "SHOP G25, G/F, FESTIVAL WALK, 80 TAT CHEE AVENUE, KOWLOON TONG, KOWLOON",
-      "seating": null,
+      "seating": "indoor",
       "telephone": "+852 2337 8213",
       "website": "https://lubuds.com/zh/moon-palace/",
       "mapkit": "YES - both",
