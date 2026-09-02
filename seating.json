@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-01",
+  "updated": "2026-09-02",
   "arrangements": {
     "2218818820": "indoor",
     "3118805563": "indoor",
@@ -808,17 +808,6 @@
       "seating": "indoor",
       "telephone": "+852 9862 7830",
       "website": "https://www.bistro-concept.com/restaurants/lobster-shack",
-      "mapkit": "YES - both",
-      "contact_source": "MapKit"
-    },
-    "2218816532": {
-      "name_en": "MESSINA",
-      "name_zh": "MESSINA",
-      "district": "Central/Western",
-      "address": "SHOP NOS. 2-6A, UG/F, CAR PO COMMERCIAL BUILDING, 37-43 POTTINGER STREET, 18-20 LYNDHURST TERRACE, CENTRAL, HONG KONG",
-      "seating": null,
-      "telephone": "+852 2152 2870",
-      "website": "https://www.gelatomessina.com.hk/",
       "mapkit": "YES - both",
       "contact_source": "MapKit"
     },
