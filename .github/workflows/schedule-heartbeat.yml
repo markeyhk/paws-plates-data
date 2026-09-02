@@ -1,0 +1,22 @@
+name: Public schedule heartbeat
+
+on:
+  # Temporary test of the public repository's GitHub scheduler. This workflow
+  # has no permissions, secrets, checkout, or access to restaurant data.
+  schedule:
+    - cron: "*/5 * * * *"
+  push:
+    branches:
+      - main
+    paths:
+      - .github/workflows/schedule-heartbeat.yml
+  workflow_dispatch:
+
+permissions: {}
+
+jobs:
+  heartbeat:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Record trigger
+        run: echo "GitHub created a ${GITHUB_EVENT_NAME} event at $(date -u)."
