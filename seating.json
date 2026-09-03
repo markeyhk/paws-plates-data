@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-02",
+  "updated": "2026-09-03",
   "arrangements": {
     "2218818820": "indoor",
     "3118805563": "indoor",
@@ -11,7 +11,6 @@
     "3118810046": "indoor",
     "2218818404": "indoor",
     "2218815247": "indoor",
-    "2218818219": "indoor",
     "3118810541": "indoor",
     "2218805769": "indoor",
     "2218817632": "indoor",
@@ -533,17 +532,6 @@
       "seating": null,
       "telephone": "+852 9504 4817",
       "website": "https://www.instagram.com/en_coffeehk/",
-      "mapkit": "YES - both",
-      "contact_source": "MapKit"
-    },
-    "2218818219": {
-      "name_en": "FALCONE",
-      "name_zh": "FALCONE",
-      "district": "Central/Western",
-      "address": "SEATING ACCOMMODATION IN FRONT OF SHOP 1082 AND SHOP 1082, PODIUM LEVEL ONE, IFC MALL, 8 FINANCE STREET, CENTRAL, HONG KONG",
-      "seating": "indoor",
-      "telephone": "+852 2631 1190",
-      "website": "https://www.pizzeriafalcone.com/",
       "mapkit": "YES - both",
       "contact_source": "MapKit"
     },
@@ -11178,6 +11166,17 @@
       "name_zh": "BLA BLA by sensory ZERO",
       "district": "Tai Po",
       "address": "SHOP NO. G12, G/F, GO PARK, 9 HOI YING ROAD, TAI PO, NEW TERRITORIES",
+      "seating": null,
+      "telephone": null,
+      "website": null,
+      "mapkit": null,
+      "contact_source": null
+    },
+    "3193802402": {
+      "name_en": "BAR PACIFIC",
+      "name_zh": "太平洋酒吧",
+      "district": "Tuen Mun",
+      "address": "SHOP 42 & 56, G/F, MELODY GARDEN, 2 WU CHUI ROAD, TUEN MUN, NEW TERRITORIES",
       "seating": null,
       "telephone": null,
       "website": null,

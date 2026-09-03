@@ -1,23 +1,36 @@
 {
-  "state": "up_to_date",
+  "state": "updated",
   "message": "",
-  "last_checked_hkt": "2026-09-02 20:08",
-  "fehd_date": "September 2",
+  "last_checked_hkt": "2026-09-03 20:07",
+  "fehd_date": "September 3",
   "total": 992,
   "last_change": {
-    "date": "2026-09-02",
-    "fehd_date": "September 2",
-    "added": [],
+    "date": "2026-09-03",
+    "fehd_date": "September 3",
+    "added": [
+      {
+        "licence": "3193802402",
+        "en": "BAR PACIFIC",
+        "tc": "太平洋酒吧",
+        "district": "Tuen Mun"
+      }
+    ],
     "removed": [
       {
-        "licence": "2218816532",
-        "en": "MESSINA",
-        "tc": "MESSINA",
-        "seating": ""
+        "licence": "2218818219",
+        "en": "FALCONE",
+        "tc": "FALCONE",
+        "seating": "indoor"
       }
     ]
   },
   "history": [
+    {
+      "checked": "2026-09-03 20:07",
+      "fehd_date": "September 3",
+      "added": 1,
+      "removed": 1
+    },
     {
       "checked": "2026-09-02 19:38",
       "fehd_date": "September 2",
