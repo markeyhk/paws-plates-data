@@ -370,7 +370,7 @@
     "3192803329": "indoor",
     "3197801984": "indoor",
     "2252810491": "indoor",
-    "3161808504": "indoor",
+    "3161808504": "outdoor",
     "2263809071": "indoor"
   },
   "restaurants": {
@@ -11093,7 +11093,7 @@
       "name_zh": "旭宵食堂",
       "district": "Yau Tsim",
       "address": "AREA NO.4 AT ART PARK, WEST KOWLOON CULTURAL DISTRICT, KOWLOON",
-      "seating": "indoor",
+      "seating": "outdoor",
       "telephone": "+852 9794 5343",
       "website": "https://www.instagram.com/haru_hk_/?hl=en",
       "mapkit": "YES - telephone only",
