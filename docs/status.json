@@ -1,30 +1,29 @@
 {
   "state": "updated",
   "message": "",
-  "last_checked_hkt": "2026-09-03 20:07",
-  "fehd_date": "September 3",
-  "total": 992,
+  "last_checked_hkt": "2026-09-04 20:09",
+  "fehd_date": "September 4",
+  "total": 993,
   "last_change": {
-    "date": "2026-09-03",
-    "fehd_date": "September 3",
+    "date": "2026-09-04",
+    "fehd_date": "September 4",
     "added": [
       {
-        "licence": "3193802402",
-        "en": "BAR PACIFIC",
-        "tc": "太平洋酒吧",
-        "district": "Tuen Mun"
+        "licence": "2297807638",
+        "en": "Dragon Inn",
+        "tc": "龍門客棧",
+        "district": "Sha Tin"
       }
     ],
-    "removed": [
-      {
-        "licence": "2218818219",
-        "en": "FALCONE",
-        "tc": "FALCONE",
-        "seating": "indoor"
-      }
-    ]
+    "removed": []
   },
   "history": [
+    {
+      "checked": "2026-09-04 20:09",
+      "fehd_date": "September 4",
+      "added": 1,
+      "removed": 0
+    },
     {
       "checked": "2026-09-03 20:07",
       "fehd_date": "September 3",
