@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-06",
+  "updated": "2026-09-07",
   "arrangements": {
     "2218818820": "indoor",
     "3118805563": "indoor",
@@ -5064,17 +5064,6 @@
       "mapkit": "YES - telephone only",
       "contact_source": "MapKit"
     },
-    "2297809564": {
-      "name_en": "Cafe de Coral",
-      "name_zh": "大家樂",
-      "district": "Sha Tin",
-      "address": "SHOP UNIT 519, 5/F, THE WAI, COMMERCIAL DEVELOPMENT AT TAI WAI STATION, SHA TIN TOWN LOT NO. 520, SHA TIN, NEW TERRITORIES",
-      "seating": null,
-      "telephone": "+852 2306 1959",
-      "website": "https://www.eatcdc.com",
-      "mapkit": "YES - both",
-      "contact_source": "MapKit"
-    },
     "2297800071": {
       "name_en": "DRAGON DELIGHT",
       "name_zh": "龍悦",
@@ -5842,17 +5831,6 @@
       "seating": null,
       "telephone": "+852 6331 4552",
       "website": "https://www.instagram.com/omgjinjangcurrymee_hk?igsh=MTh6NzZlMmk5a241OA==",
-      "mapkit": "YES - both",
-      "contact_source": "MapKit"
-    },
-    "2263808193": {
-      "name_en": "Poke Go",
-      "name_zh": "Poke Go",
-      "district": "Sham Shui Po",
-      "address": "G/F, 211 TAI NAN STREET, SHAM SHUI PO, KOWLOON",
-      "seating": null,
-      "telephone": "+852 3563 8137",
-      "website": "https://pokegohk.com",
       "mapkit": "YES - both",
       "contact_source": "MapKit"
     },
@@ -11295,6 +11273,17 @@
       "name_zh": "龍門客棧",
       "district": "Sha Tin",
       "address": "SHOP NO. G06, G/F, WE GO MALL, 16 PO TAI STREET, MA ON SHAN, NEW TERRITORIES",
+      "seating": null,
+      "telephone": null,
+      "website": null,
+      "mapkit": null,
+      "contact_source": null
+    },
+    "3162805672": {
+      "name_en": "Buff",
+      "name_zh": "不苦",
+      "district": "Mong Kok",
+      "address": "GROUND FLOOR, 10H BOUNDARY STREET AND 5A MAPLE STREET, SHAM SHUI PO, KOWLOON",
       "seating": null,
       "telephone": null,
       "website": null,

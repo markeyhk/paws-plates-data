@@ -1,23 +1,42 @@
 {
   "state": "updated",
   "message": "",
-  "last_checked_hkt": "2026-09-04 20:09",
-  "fehd_date": "September 4",
-  "total": 993,
+  "last_checked_hkt": "2026-09-07 17:25",
+  "fehd_date": "September 7",
+  "total": 992,
   "last_change": {
-    "date": "2026-09-04",
-    "fehd_date": "September 4",
+    "date": "2026-09-07",
+    "fehd_date": "September 7",
     "added": [
       {
-        "licence": "2297807638",
-        "en": "Dragon Inn",
-        "tc": "龍門客棧",
-        "district": "Sha Tin"
+        "licence": "3162805672",
+        "en": "Buff",
+        "tc": "不苦",
+        "district": "Mong Kok"
       }
     ],
-    "removed": []
+    "removed": [
+      {
+        "licence": "2263808193",
+        "en": "Poke Go",
+        "tc": "Poke Go",
+        "seating": ""
+      },
+      {
+        "licence": "2297809564",
+        "en": "Cafe de Coral",
+        "tc": "大家樂",
+        "seating": ""
+      }
+    ]
   },
   "history": [
+    {
+      "checked": "2026-09-07 17:25",
+      "fehd_date": "September 7",
+      "added": 1,
+      "removed": 2
+    },
     {
       "checked": "2026-09-04 20:09",
       "fehd_date": "September 4",
