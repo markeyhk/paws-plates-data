@@ -1,36 +1,35 @@
 {
   "state": "updated",
   "message": "",
-  "last_checked_hkt": "2026-09-07 17:25",
-  "fehd_date": "September 7",
-  "total": 992,
+  "last_checked_hkt": "2026-09-08 16:54",
+  "fehd_date": "September 8",
+  "total": 994,
   "last_change": {
-    "date": "2026-09-07",
-    "fehd_date": "September 7",
+    "date": "2026-09-08",
+    "fehd_date": "September 8",
     "added": [
       {
-        "licence": "3162805672",
-        "en": "Buff",
-        "tc": "不苦",
-        "district": "Mong Kok"
-      }
-    ],
-    "removed": [
-      {
-        "licence": "2263808193",
-        "en": "Poke Go",
-        "tc": "Poke Go",
-        "seating": ""
+        "licence": "3118811456",
+        "en": "CHEEK-TO-CHEEK",
+        "tc": "CHEEK-TO-CHEEK",
+        "district": "Central/Western"
       },
       {
-        "licence": "2297809564",
-        "en": "Cafe de Coral",
-        "tc": "大家樂",
-        "seating": ""
+        "licence": "2297003740",
+        "en": "HAPPINESS",
+        "tc": "囍慶酒樓",
+        "district": "Sha Tin"
       }
-    ]
+    ],
+    "removed": []
   },
   "history": [
+    {
+      "checked": "2026-09-08 16:54",
+      "fehd_date": "September 8",
+      "added": 2,
+      "removed": 0
+    },
     {
       "checked": "2026-09-07 17:25",
       "fehd_date": "September 7",

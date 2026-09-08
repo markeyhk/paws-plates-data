@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-07",
+  "updated": "2026-09-08",
   "arrangements": {
     "2218818820": "indoor",
     "3118805563": "indoor",
@@ -11284,6 +11284,28 @@
       "name_zh": "不苦",
       "district": "Mong Kok",
       "address": "GROUND FLOOR, 10H BOUNDARY STREET AND 5A MAPLE STREET, SHAM SHUI PO, KOWLOON",
+      "seating": null,
+      "telephone": null,
+      "website": null,
+      "mapkit": null,
+      "contact_source": null
+    },
+    "3118811456": {
+      "name_en": "CHEEK-TO-CHEEK",
+      "name_zh": "CHEEK-TO-CHEEK",
+      "district": "Central/Western",
+      "address": "SHOP A, G/F, NO. 17 OLD BAILEY STREET, CENTRAL, HONG KONG",
+      "seating": null,
+      "telephone": null,
+      "website": null,
+      "mapkit": null,
+      "contact_source": null
+    },
+    "2297003740": {
+      "name_en": "HAPPINESS",
+      "name_zh": "囍慶酒樓",
+      "district": "Sha Tin",
+      "address": "1/F, NO. 1 SCIENCE PARK WEST AVENUE, HONG KONG SCIENCE PARK, PAK SHEK KOK, SHA TIN, NEW TERRITORIES",
       "seating": null,
       "telephone": null,
       "website": null,
