@@ -375,7 +375,8 @@
     "3197801984": "indoor",
     "2252810491": "indoor",
     "3161808504": "outdoor",
-    "2263809071": "indoor"
+    "2263809071": "indoor",
+    "2297810221": "indoor"
   },
   "restaurants": {
     "3118811827": {
@@ -11317,7 +11318,7 @@
       "name_zh": "Food Lab",
       "district": "Sha Tin",
       "address": "UNIT S031, G/F, BUILDING 8W, PHASE 2, HONG KONG SCIENCE PARK, PAK SHEK KOK, SHA TIN, NEW TERRITORIES",
-      "seating": null,
+      "seating": "indoor",
       "telephone": null,
       "website": null,
       "mapkit": null,
