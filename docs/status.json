@@ -1,29 +1,29 @@
 {
   "state": "updated",
   "message": "",
-  "last_checked_hkt": "2026-09-08 16:54",
-  "fehd_date": "September 8",
-  "total": 994,
+  "last_checked_hkt": "2026-09-09 17:00",
+  "fehd_date": "September 9",
+  "total": 995,
   "last_change": {
-    "date": "2026-09-08",
-    "fehd_date": "September 8",
+    "date": "2026-09-09",
+    "fehd_date": "September 9",
     "added": [
       {
-        "licence": "3118811456",
-        "en": "CHEEK-TO-CHEEK",
-        "tc": "CHEEK-TO-CHEEK",
-        "district": "Central/Western"
-      },
-      {
-        "licence": "2297003740",
-        "en": "HAPPINESS",
-        "tc": "囍慶酒樓",
+        "licence": "2297810221",
+        "en": "Food Lab",
+        "tc": "Food Lab",
         "district": "Sha Tin"
       }
     ],
     "removed": []
   },
   "history": [
+    {
+      "checked": "2026-09-09 17:00",
+      "fehd_date": "September 9",
+      "added": 1,
+      "removed": 0
+    },
     {
       "checked": "2026-09-08 16:54",
       "fehd_date": "September 8",
@@ -137,12 +137,6 @@
       "fehd_date": "August 10",
       "added": 1,
       "removed": 1
-    },
-    {
-      "checked": "2026-08-07 14:39",
-      "fehd_date": "August 7",
-      "added": 1,
-      "removed": 0
     }
   ]
 }

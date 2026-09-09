@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-08",
+  "updated": "2026-09-09",
   "arrangements": {
     "2218818820": "indoor",
     "3118805563": "indoor",
@@ -11306,6 +11306,17 @@
       "name_zh": "囍慶酒樓",
       "district": "Sha Tin",
       "address": "1/F, NO. 1 SCIENCE PARK WEST AVENUE, HONG KONG SCIENCE PARK, PAK SHEK KOK, SHA TIN, NEW TERRITORIES",
+      "seating": null,
+      "telephone": null,
+      "website": null,
+      "mapkit": null,
+      "contact_source": null
+    },
+    "2297810221": {
+      "name_en": "Food Lab",
+      "name_zh": "Food Lab",
+      "district": "Sha Tin",
+      "address": "UNIT S031, G/F, BUILDING 8W, PHASE 2, HONG KONG SCIENCE PARK, PAK SHEK KOK, SHA TIN, NEW TERRITORIES",
       "seating": null,
       "telephone": null,
       "website": null,
