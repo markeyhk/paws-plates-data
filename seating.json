@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-10",
+  "updated": "2026-09-11",
   "arrangements": {
     "2218818820": "indoor",
     "3118805563": "indoor",
@@ -11320,6 +11320,17 @@
       "district": "Sha Tin",
       "address": "UNIT S031, G/F, BUILDING 8W, PHASE 2, HONG KONG SCIENCE PARK, PAK SHEK KOK, SHA TIN, NEW TERRITORIES",
       "seating": "indoor",
+      "telephone": null,
+      "website": null,
+      "mapkit": null,
+      "contact_source": null
+    },
+    "2252810172": {
+      "name_en": "The Pantry Club",
+      "name_zh": "The Pantry Club",
+      "district": "Kowloon City",
+      "address": "SHOP NO. M3-005, LEVEL G, KAI TAK MALL 3, KAI TAK SPORTS PARK, KAI TAK, KOWLOON CITY, KOWLOON",
+      "seating": null,
       "telephone": null,
       "website": null,
       "mapkit": null,
