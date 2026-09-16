@@ -1,23 +1,60 @@
 {
-  "state": "up_to_date",
-  "message": "FEHD re-dated to September 15; no restaurants changed.",
-  "last_checked_hkt": "2026-09-15 17:28",
-  "fehd_date": "September 15",
-  "total": 996,
+  "state": "updated",
+  "message": "",
+  "last_checked_hkt": "2026-09-16 17:20",
+  "fehd_date": "September 16",
+  "total": 994,
   "last_change": {
-    "date": "2026-09-11",
-    "fehd_date": "September 11",
+    "date": "2026-09-16",
+    "fehd_date": "September 16",
     "added": [
       {
-        "licence": "2252810172",
-        "en": "The Pantry Club",
-        "tc": "The Pantry Club",
-        "district": "Kowloon City"
+        "licence": "2211810252",
+        "en": "WA SHARE CAFE AND BAR",
+        "tc": "和‧不同咖啡吧",
+        "district": "Eastern"
+      },
+      {
+        "licence": "2294801620",
+        "en": "MINT THAI HOUSE",
+        "tc": "薄荷葉泰國菜",
+        "district": "Yuen Long"
       }
     ],
-    "removed": []
+    "removed": [
+      {
+        "licence": "2292801644",
+        "en": "JASMINE",
+        "tc": "八月花",
+        "seating": ""
+      },
+      {
+        "licence": "2294806971",
+        "en": "PEKING GARDEN",
+        "tc": "北京樓",
+        "seating": "indoor"
+      },
+      {
+        "licence": "2294807451",
+        "en": "JADE GARDEN",
+        "tc": "翠園",
+        "seating": ""
+      },
+      {
+        "licence": "3152259654",
+        "en": "LA LA BAR",
+        "tc": "LA LA BAR",
+        "seating": ""
+      }
+    ]
   },
   "history": [
+    {
+      "checked": "2026-09-16 17:20",
+      "fehd_date": "September 16",
+      "added": 2,
+      "removed": 4
+    },
     {
       "checked": "2026-09-11 16:57",
       "fehd_date": "September 11",
@@ -130,12 +167,6 @@
       "checked": "2026-08-12 16:09",
       "fehd_date": "August 12",
       "added": 1,
-      "removed": 0
-    },
-    {
-      "checked": "2026-08-11 16:04",
-      "fehd_date": "August 11",
-      "added": 2,
       "removed": 0
     }
   ]

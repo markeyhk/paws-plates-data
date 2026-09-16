@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-15",
+  "updated": "2026-09-16",
   "arrangements": {
     "2218818820": "indoor",
     "3118805563": "indoor",
@@ -356,7 +356,6 @@
     "2294805659": "indoor",
     "2294810327": "indoor",
     "2294808694": "indoor",
-    "2294806971": "indoor",
     "2294811621": "indoor",
     "2294811481": "indoor",
     "2294811348": "indoor",
@@ -2655,17 +2654,6 @@
       "telephone": "+852 2326 2888",
       "website": null,
       "mapkit": "YES - telephone only",
-      "contact_source": "MapKit"
-    },
-    "3152259654": {
-      "name_en": "LA LA BAR",
-      "name_zh": "LA LA BAR",
-      "district": "Kowloon City",
-      "address": "ENTRANCE ON G/F & 1/F ON NO. 3 PEACE AVENUE, HOMANTIN, KOWLOON",
-      "seating": null,
-      "telephone": "+852 9299 7881",
-      "website": "https://www.facebook.com/LaLaBarHK/",
-      "mapkit": "YES - both",
       "contact_source": "MapKit"
     },
     "3152803868": {
@@ -6815,17 +6803,6 @@
       "mapkit": "YES - telephone only",
       "contact_source": "MapKit"
     },
-    "2292801644": {
-      "name_en": "JASMINE",
-      "name_zh": "八月花",
-      "district": "Tsuen Wan",
-      "address": "SHOP 107, 1/F, CITYWALK, 1 YEUNG UK ROAD, TSUEN WAN, NEW TERRITORIES",
-      "seating": null,
-      "telephone": "+852 2941 0092",
-      "website": "https://www.jasmine.com.hk/",
-      "mapkit": "YES - both",
-      "contact_source": "MapKit"
-    },
     "3192802441": {
       "name_en": "JULY COFFEE & CO.",
       "name_zh": "JULY COFFEE & CO.",
@@ -10258,17 +10235,6 @@
       "mapkit": "YES - both",
       "contact_source": "MapKit"
     },
-    "2294807451": {
-      "name_en": "JADE GARDEN",
-      "name_zh": "翠園",
-      "district": "Yuen Long",
-      "address": "SHOP 2039, LEVEL 2 AND THE OUTSIDE SEATING ACCOMMODATION AT FLAT ROOF, YOHO MALL I, 9 LONG YAT ROAD, YUEN LONG, NEW TERRITORIES",
-      "seating": null,
-      "telephone": "+852 2259 3538",
-      "website": "http://www.jadegarden.com.hk",
-      "mapkit": "YES - both",
-      "contact_source": "MapKit"
-    },
     "2294810813": {
       "name_en": "KAHEE JAPANESE RESTAURANT",
       "name_zh": "日本料理嘉兵衛",
@@ -10311,17 +10277,6 @@
       "telephone": "+852 2352 6511",
       "website": null,
       "mapkit": "YES - telephone only",
-      "contact_source": "MapKit"
-    },
-    "2294806971": {
-      "name_en": "PEKING GARDEN",
-      "name_zh": "北京樓",
-      "district": "Yuen Long",
-      "address": "SHOP 2061-2062, LEVEL 2, YOHO MALL I, 9 LONG YAT ROAD, YUEN LONG, NEW TERRITORIES",
-      "seating": "indoor",
-      "telephone": "+852 2259 3218",
-      "website": "https://www.maximschinese.com.hk/brand/3",
-      "mapkit": "YES - both",
       "contact_source": "MapKit"
     },
     "2294811621": {
@@ -11330,6 +11285,28 @@
       "name_zh": "The Pantry Club",
       "district": "Kowloon City",
       "address": "SHOP NO. M3-005, LEVEL G, KAI TAK MALL 3, KAI TAK SPORTS PARK, KAI TAK, KOWLOON CITY, KOWLOON",
+      "seating": null,
+      "telephone": null,
+      "website": null,
+      "mapkit": null,
+      "contact_source": null
+    },
+    "2211810252": {
+      "name_en": "WA SHARE CAFE AND BAR",
+      "name_zh": "和‧不同咖啡吧",
+      "district": "Eastern",
+      "address": "SHOP A2, G/F., CONWELL MANSION, NOS. 114-118, 122-126 WHARF ROAD, NORTH POINT, HONG KONG",
+      "seating": null,
+      "telephone": null,
+      "website": null,
+      "mapkit": null,
+      "contact_source": null
+    },
+    "2294801620": {
+      "name_en": "MINT THAI HOUSE",
+      "name_zh": "薄荷葉泰國菜",
+      "district": "Yuen Long",
+      "address": "SHOP NO.12 & 13, G/F AND THE OUTSIDE SEATING ACCOMMODATION AT SHOP FRONT, YEE HONG BUILDING, 2 ON CHUN LANE, YUEN LONG, NEW TERRITORIES",
       "seating": null,
       "telephone": null,
       "website": null,
