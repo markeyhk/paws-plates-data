@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-17",
+  "updated": "2026-09-18",
   "arrangements": {
     "2218818820": "indoor",
     "3118805563": "indoor",
@@ -1444,17 +1444,6 @@
       "telephone": "+852 9179 5945",
       "website": "https://www.18grams.com",
       "mapkit": "YES - telephone only",
-      "contact_source": "MapKit"
-    },
-    "2211806976": {
-      "name_en": "A Poele",
-      "name_zh": "A Poele",
-      "district": "Eastern",
-      "address": "SHOP G514, GROUND FLOOR, HING ON MANSION, 5 TAI YUE AVENUE, TAIKOO SHING, HONG KONG",
-      "seating": null,
-      "telephone": "+852 2446 1598",
-      "website": "https://www.apoelebistro.com/about",
-      "mapkit": "YES - both",
       "contact_source": "MapKit"
     },
     "2211808662": {
