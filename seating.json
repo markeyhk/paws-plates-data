@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-18",
+  "updated": "2026-09-21",
   "arrangements": {
     "2218818820": "indoor",
     "3118805563": "indoor",
@@ -9770,17 +9770,6 @@
       "seating": "indoor",
       "telephone": "+852 9520 9817",
       "website": "https://www.facebook.com/slowwalkerjd/",
-      "mapkit": "YES - both",
-      "contact_source": "MapKit"
-    },
-    "2261101946": {
-      "name_en": "SPAGHETTI HOUSE",
-      "name_zh": "意粉屋",
-      "district": "Yau Tsim",
-      "address": "1ST FLOOR, 57 PEKING ROAD, TSIM SHA TSUI, KOWLOON",
-      "seating": null,
-      "telephone": "+852 9161 9097",
-      "website": "http://www.spaghettihouse.com",
       "mapkit": "YES - both",
       "contact_source": "MapKit"
     },
