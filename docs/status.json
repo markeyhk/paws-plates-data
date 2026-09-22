@@ -1,23 +1,29 @@
 {
   "state": "updated",
   "message": "",
-  "last_checked_hkt": "2026-09-21 17:59",
-  "fehd_date": "September 21",
-  "total": 992,
+  "last_checked_hkt": "2026-09-22 17:20",
+  "fehd_date": "September 22",
+  "total": 993,
   "last_change": {
-    "date": "2026-09-21",
-    "fehd_date": "September 21",
-    "added": [],
-    "removed": [
+    "date": "2026-09-22",
+    "fehd_date": "September 22",
+    "added": [
       {
-        "licence": "2261101946",
-        "en": "SPAGHETTI HOUSE",
-        "tc": "意粉屋",
-        "seating": ""
+        "licence": "3152804047",
+        "en": "HAAGEN DAZS",
+        "tc": "HAAGEN DAZS",
+        "district": "Kowloon City"
       }
-    ]
+    ],
+    "removed": []
   },
   "history": [
+    {
+      "checked": "2026-09-22 17:20",
+      "fehd_date": "September 22",
+      "added": 1,
+      "removed": 0
+    },
     {
       "checked": "2026-09-21 17:59",
       "fehd_date": "September 21",
@@ -131,12 +137,6 @@
       "fehd_date": "August 18",
       "added": 1,
       "removed": 3
-    },
-    {
-      "checked": "2026-08-14 16:07",
-      "fehd_date": "August 14",
-      "added": 1,
-      "removed": 1
     }
   ]
 }

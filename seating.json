@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-21",
+  "updated": "2026-09-22",
   "arrangements": {
     "2218818820": "indoor",
     "3118805563": "indoor",
@@ -11285,6 +11285,17 @@
       "name_zh": "薄荷葉泰國菜",
       "district": "Yuen Long",
       "address": "SHOP NO.12 & 13, G/F AND THE OUTSIDE SEATING ACCOMMODATION AT SHOP FRONT, YEE HONG BUILDING, 2 ON CHUN LANE, YUEN LONG, NEW TERRITORIES",
+      "seating": null,
+      "telephone": null,
+      "website": null,
+      "mapkit": null,
+      "contact_source": null
+    },
+    "3152804047": {
+      "name_en": "HAAGEN DAZS",
+      "name_zh": "HAAGEN DAZS",
+      "district": "Kowloon City",
+      "address": "SHOP L118, 1/F, AIRSIDE, 2 CONCORDE ROAD, KAI TAK, KOWLOON",
       "seating": null,
       "telephone": null,
       "website": null,
