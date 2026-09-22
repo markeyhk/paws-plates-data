@@ -376,7 +376,8 @@
     "2252810491": "indoor",
     "3161808504": "outdoor",
     "2263809071": "indoor",
-    "2297810221": "indoor"
+    "2297810221": "indoor",
+    "3152804047": "indoor"
   },
   "restaurants": {
     "3118811827": {
@@ -11296,7 +11297,7 @@
       "name_zh": "HAAGEN DAZS",
       "district": "Kowloon City",
       "address": "SHOP L118, 1/F, AIRSIDE, 2 CONCORDE ROAD, KAI TAK, KOWLOON",
-      "seating": null,
+      "seating": "indoor",
       "telephone": null,
       "website": null,
       "mapkit": null,
