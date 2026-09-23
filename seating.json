@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-22",
+  "updated": "2026-09-23",
   "arrangements": {
     "2218818820": "indoor",
     "3118805563": "indoor",
@@ -196,7 +196,6 @@
     "2297809537": "indoor",
     "2297808817": "indoor",
     "3197802437": "indoor",
-    "2297807045": "indoor",
     "2297803414": "indoor",
     "2297804505": "indoor",
     "2297809740": "indoor",
@@ -5374,17 +5373,6 @@
       "mapkit": "NO",
       "contact_source": null
     },
-    "2297807045": {
-      "name_en": "The Spaghetti House",
-      "name_zh": "意粉屋",
-      "district": "Sha Tin",
-      "address": "SHOP NO. 710, LEVEL 7, NEW TOWN PLAZA PHASE 1, SHA TIN, NEW TERRITORIES",
-      "seating": "indoor",
-      "telephone": "+852 2697 9009",
-      "website": "http://www.spaghettihouse.com/html/eng/branch/branch_info.jsp#detail",
-      "mapkit": "YES - both",
-      "contact_source": "MapKit"
-    },
     "2297803414": {
       "name_en": "Tom Bar + Grill",
       "name_zh": "Tom Bar + Grill",
@@ -6944,17 +6932,6 @@
       "seating": null,
       "telephone": "6013 6320",
       "website": null,
-      "mapkit": "NO",
-      "contact_source": "Chrome"
-    },
-    "2292001907": {
-      "name_en": "Maxim's Palace",
-      "name_zh": "美心皇宮",
-      "district": "Tsuen Wan",
-      "address": "SHOP NO. G27, LUK YEUNG GALLERIA, 22-26 WAI TSUEN ROAD, TSUEN WAN, NEW TERRITORIES",
-      "seating": null,
-      "telephone": "2498 8983",
-      "website": "https://www.maximschinese.com.hk/brand/1",
       "mapkit": "NO",
       "contact_source": "Chrome"
     },
@@ -11298,6 +11275,17 @@
       "district": "Kowloon City",
       "address": "SHOP L118, 1/F, AIRSIDE, 2 CONCORDE ROAD, KAI TAK, KOWLOON",
       "seating": "indoor",
+      "telephone": null,
+      "website": null,
+      "mapkit": null,
+      "contact_source": null
+    },
+    "2212824474": {
+      "name_en": "COFFGANIC",
+      "name_zh": "COFFGANIC",
+      "district": "Wan Chai",
+      "address": "SHOP 336, 3/F, HOPEWELL MALL, 15 KENNEDY ROAD, WAN CHAI, HONG KONG",
+      "seating": null,
       "telephone": null,
       "website": null,
       "mapkit": null,

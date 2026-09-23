@@ -1,23 +1,42 @@
 {
   "state": "updated",
   "message": "",
-  "last_checked_hkt": "2026-09-22 17:20",
-  "fehd_date": "September 22",
-  "total": 993,
+  "last_checked_hkt": "2026-09-23 17:21",
+  "fehd_date": "September 23",
+  "total": 992,
   "last_change": {
-    "date": "2026-09-22",
-    "fehd_date": "September 22",
+    "date": "2026-09-23",
+    "fehd_date": "September 23",
     "added": [
       {
-        "licence": "3152804047",
-        "en": "HAAGEN DAZS",
-        "tc": "HAAGEN DAZS",
-        "district": "Kowloon City"
+        "licence": "2212824474",
+        "en": "COFFGANIC",
+        "tc": "COFFGANIC",
+        "district": "Wan Chai"
       }
     ],
-    "removed": []
+    "removed": [
+      {
+        "licence": "2292001907",
+        "en": "Maxim's Palace",
+        "tc": "美心皇宮",
+        "seating": ""
+      },
+      {
+        "licence": "2297807045",
+        "en": "The Spaghetti House",
+        "tc": "意粉屋",
+        "seating": "indoor"
+      }
+    ]
   },
   "history": [
+    {
+      "checked": "2026-09-23 17:21",
+      "fehd_date": "September 23",
+      "added": 1,
+      "removed": 2
+    },
     {
       "checked": "2026-09-22 17:20",
       "fehd_date": "September 22",
@@ -131,12 +150,6 @@
       "fehd_date": "August 19",
       "added": 3,
       "removed": 0
-    },
-    {
-      "checked": "2026-08-18 15:30",
-      "fehd_date": "August 18",
-      "added": 1,
-      "removed": 3
     }
   ]
 }
