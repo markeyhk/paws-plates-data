@@ -1,36 +1,29 @@
 {
   "state": "updated",
   "message": "",
-  "last_checked_hkt": "2026-09-23 17:21",
-  "fehd_date": "September 23",
-  "total": 992,
+  "last_checked_hkt": "2026-09-24 17:21",
+  "fehd_date": "September 24",
+  "total": 991,
   "last_change": {
-    "date": "2026-09-23",
-    "fehd_date": "September 23",
-    "added": [
-      {
-        "licence": "2212824474",
-        "en": "COFFGANIC",
-        "tc": "COFFGANIC",
-        "district": "Wan Chai"
-      }
-    ],
+    "date": "2026-09-24",
+    "fehd_date": "September 24",
+    "added": [],
     "removed": [
       {
-        "licence": "2292001907",
-        "en": "Maxim's Palace",
-        "tc": "美心皇宮",
+        "licence": "2296801448",
+        "en": "CHIUCHOW GARDEN",
+        "tc": "潮江春",
         "seating": ""
-      },
-      {
-        "licence": "2297807045",
-        "en": "The Spaghetti House",
-        "tc": "意粉屋",
-        "seating": "indoor"
       }
     ]
   },
   "history": [
+    {
+      "checked": "2026-09-24 17:21",
+      "fehd_date": "September 24",
+      "added": 0,
+      "removed": 1
+    },
     {
       "checked": "2026-09-23 17:21",
       "fehd_date": "September 23",
@@ -143,12 +136,6 @@
       "checked": "2026-08-20 15:33",
       "fehd_date": "August 20",
       "added": 1,
-      "removed": 0
-    },
-    {
-      "checked": "2026-08-19 15:30",
-      "fehd_date": "August 19",
-      "added": 3,
       "removed": 0
     }
   ]
