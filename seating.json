@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-24",
+  "updated": "2026-09-25",
   "arrangements": {
     "2218818820": "indoor",
     "3118805563": "indoor",
@@ -264,6 +264,7 @@
     "3193802192": "indoor",
     "2293806479": "indoor",
     "3193802208": "indoor",
+    "2293001126": "indoor",
     "2293807074": "indoor",
     "3193802314": "indoor",
     "3193802253": "indoor",
@@ -7391,7 +7392,7 @@
       "name_zh": "McDonald's",
       "district": "Tuen Mun",
       "address": "SHOP R6 + F9, OUTSIDE SEATING AREA AT SIDE, CASTLE PEAK BAY, MARINA MAGIC SHOPPING MALL, HONG KONG GOLD COAST, CASTLE PEAK ROAD, TUEN MUN, NEW TERRITORIES",
-      "seating": null,
+      "seating": "indoor",
       "telephone": "+852 2441 6822",
       "website": "https://mcdonalds.com.hk",
       "mapkit": "YES - both",
