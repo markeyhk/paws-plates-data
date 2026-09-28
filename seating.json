@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-25",
+  "updated": "2026-09-28",
   "arrangements": {
     "2218818820": "indoor",
     "3118805563": "indoor",
@@ -6914,17 +6914,6 @@
       "mapkit": "YES - both",
       "contact_source": "MapKit"
     },
-    "3192802496": {
-      "name_en": "Man Fung Dumpings and Dessert",
-      "name_zh": "民豐餃子·甜品",
-      "district": "Tsuen Wan",
-      "address": "SHOP NO. G46, G/F, CITYWALK, 1 YEUNG UK ROAD, TSUEN WAN, NEW TERRITORIES",
-      "seating": null,
-      "telephone": "6013 6320",
-      "website": null,
-      "mapkit": "NO",
-      "contact_source": "Chrome"
-    },
     "2292808690": {
       "name_en": "Medium Rare Steak",
       "name_zh": "岩盤牛扒",
@@ -11275,6 +11264,17 @@
       "name_zh": "COFFGANIC",
       "district": "Wan Chai",
       "address": "SHOP 336, 3/F, HOPEWELL MALL, 15 KENNEDY ROAD, WAN CHAI, HONG KONG",
+      "seating": null,
+      "telephone": null,
+      "website": null,
+      "mapkit": null,
+      "contact_source": null
+    },
+    "3151803685": {
+      "name_en": "Immerse",
+      "name_zh": "Immerse",
+      "district": "Kwun Tong",
+      "address": "RESTAURANT 2, AQUABEAT 2, 90 HOI BUN ROAD, KWUN TONG, KOWLOON",
       "seating": null,
       "telephone": null,
       "website": null,
