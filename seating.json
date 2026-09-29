@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-28",
+  "updated": "2026-09-29",
   "arrangements": {
     "2218818820": "indoor",
     "3118805563": "indoor",
@@ -11275,6 +11275,17 @@
       "name_zh": "Immerse",
       "district": "Kwun Tong",
       "address": "RESTAURANT 2, AQUABEAT 2, 90 HOI BUN ROAD, KWUN TONG, KOWLOON",
+      "seating": null,
+      "telephone": null,
+      "website": null,
+      "mapkit": null,
+      "contact_source": null
+    },
+    "2292807086": {
+      "name_en": "Essence of chicken",
+      "name_zh": "風林火雞",
+      "district": "Tsuen Wan",
+      "address": "SHOP 5B, G/F, TSUEN TAK GARDENS, 208 TSUEN KING CIRCUIT, TSUEN WAN, NEW TERRITORIES",
       "seating": null,
       "telephone": null,
       "website": null,

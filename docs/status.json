@@ -1,30 +1,29 @@
 {
   "state": "updated",
   "message": "",
-  "last_checked_hkt": "2026-09-28 18:59",
-  "fehd_date": "September 28",
-  "total": 991,
+  "last_checked_hkt": "2026-09-29 18:44",
+  "fehd_date": "September 29",
+  "total": 992,
   "last_change": {
-    "date": "2026-09-28",
-    "fehd_date": "September 28",
+    "date": "2026-09-29",
+    "fehd_date": "September 29",
     "added": [
       {
-        "licence": "3151803685",
-        "en": "Immerse",
-        "tc": "Immerse",
-        "district": "Kwun Tong"
+        "licence": "2292807086",
+        "en": "Essence of chicken",
+        "tc": "風林火雞",
+        "district": "Tsuen Wan"
       }
     ],
-    "removed": [
-      {
-        "licence": "3192802496",
-        "en": "Man Fung Dumpings and Dessert",
-        "tc": "民豐餃子·甜品",
-        "seating": ""
-      }
-    ]
+    "removed": []
   },
   "history": [
+    {
+      "checked": "2026-09-29 18:44",
+      "fehd_date": "September 29",
+      "added": 1,
+      "removed": 0
+    },
     {
       "checked": "2026-09-28 18:59",
       "fehd_date": "September 28",
@@ -137,12 +136,6 @@
       "checked": "2026-08-25 15:36",
       "fehd_date": "August 25",
       "added": 1,
-      "removed": 1
-    },
-    {
-      "checked": "2026-08-21 15:35",
-      "fehd_date": "August 21",
-      "added": 2,
       "removed": 1
     }
   ]
