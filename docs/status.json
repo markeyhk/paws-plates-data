@@ -1,23 +1,41 @@
 {
   "state": "updated",
   "message": "",
-  "last_checked_hkt": "2026-09-29 18:44",
-  "fehd_date": "September 29",
-  "total": 992,
+  "last_checked_hkt": "2026-09-30 18:32",
+  "fehd_date": "September 30",
+  "total": 995,
   "last_change": {
-    "date": "2026-09-29",
-    "fehd_date": "September 29",
+    "date": "2026-09-30",
+    "fehd_date": "September 30",
     "added": [
       {
-        "licence": "2292807086",
-        "en": "Essence of chicken",
-        "tc": "風林火雞",
-        "district": "Tsuen Wan"
+        "licence": "3161807468",
+        "en": "CAFE ZI",
+        "tc": "梔子",
+        "district": "Yau Tsim"
+      },
+      {
+        "licence": "2261822467",
+        "en": "Match2 Taiwanese Kitchen",
+        "tc": "麻吉灶咖",
+        "district": "Yau Tsim"
+      },
+      {
+        "licence": "3194802153",
+        "en": "Next Station",
+        "tc": "Next Station",
+        "district": "Yuen Long"
       }
     ],
     "removed": []
   },
   "history": [
+    {
+      "checked": "2026-09-30 18:32",
+      "fehd_date": "September 30",
+      "added": 3,
+      "removed": 0
+    },
     {
       "checked": "2026-09-29 18:44",
       "fehd_date": "September 29",
@@ -130,12 +148,6 @@
       "checked": "2026-08-26 15:38",
       "fehd_date": "August 26",
       "added": 0,
-      "removed": 1
-    },
-    {
-      "checked": "2026-08-25 15:36",
-      "fehd_date": "August 25",
-      "added": 1,
       "removed": 1
     }
   ]

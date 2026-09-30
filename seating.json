@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-29",
+  "updated": "2026-09-30",
   "arrangements": {
     "2218818820": "indoor",
     "3118805563": "indoor",
@@ -11286,6 +11286,39 @@
       "name_zh": "風林火雞",
       "district": "Tsuen Wan",
       "address": "SHOP 5B, G/F, TSUEN TAK GARDENS, 208 TSUEN KING CIRCUIT, TSUEN WAN, NEW TERRITORIES",
+      "seating": null,
+      "telephone": null,
+      "website": null,
+      "mapkit": null,
+      "contact_source": null
+    },
+    "3161807468": {
+      "name_en": "CAFE ZI",
+      "name_zh": "梔子",
+      "district": "Yau Tsim",
+      "address": "SHOP A & B, G/F, GLORY CENTRE, 8 HILLWOOD ROAD, TSIM SHA TSUI, KOWLOON",
+      "seating": null,
+      "telephone": null,
+      "website": null,
+      "mapkit": null,
+      "contact_source": null
+    },
+    "2261822467": {
+      "name_en": "Match2 Taiwanese Kitchen",
+      "name_zh": "麻吉灶咖",
+      "district": "Yau Tsim",
+      "address": "SHOP NOS. B226 & B227A, BASEMENT 2, K11, NO. 18 HANOI ROAD, TSIM SHA TSUI, KOWLOON",
+      "seating": null,
+      "telephone": null,
+      "website": null,
+      "mapkit": null,
+      "contact_source": null
+    },
+    "3194802153": {
+      "name_en": "Next Station",
+      "name_zh": "Next Station",
+      "district": "Yuen Long",
+      "address": "SHOP NO. 10, G/F, FU LOY GARDEN, 7 MA WANG ROAD, YUEN LONG, NEW TERRITORIES",
       "seating": null,
       "telephone": null,
       "website": null,
