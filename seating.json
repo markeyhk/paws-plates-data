@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-01",
+  "updated": "2026-10-02",
   "arrangements": {
     "2218818820": "indoor",
     "3118805563": "indoor",
@@ -298,7 +298,6 @@
     "3112809998": "indoor",
     "2212813753": "indoor",
     "2212815360": "indoor",
-    "2212816673": "indoor",
     "2212820542": "indoor",
     "3112808001": "indoor",
     "3112810309": "indoor",
@@ -8281,17 +8280,6 @@
       "mapkit": "YES - both",
       "contact_source": "MapKit"
     },
-    "2212816673": {
-      "name_en": "Rakuraku Ramen",
-      "name_zh": "Rakuraku Ramen",
-      "district": "Wan Chai",
-      "address": "SHOP NO. G30, G/F., LEE TUNG AVENUE, 200 QUEEN'S ROAD EAST, WAN CHAI, HONG KONG",
-      "seating": "indoor",
-      "telephone": "+852 2818 3222",
-      "website": "http://tastegourmet.co/zh_hk/restaurant/11/rakuraku-ramen",
-      "mapkit": "YES - both",
-      "contact_source": "MapKit"
-    },
     "3112807327": {
       "name_en": "Reaction Coffee Roasters",
       "name_zh": "Reaction Coffee Roasters",
@@ -8531,17 +8519,6 @@
       "seating": "indoor",
       "telephone": "3702 0728",
       "website": "http://www.instagram.com/thesecondphase_hk",
-      "mapkit": "NO",
-      "contact_source": "Chrome"
-    },
-    "2212814941": {
-      "name_en": "The Spaghetti House",
-      "name_zh": "意粉屋",
-      "district": "Wan Chai",
-      "address": "SHOP UNIT NO. 3, 1/F., JP PLAZA, 22-36 PATERSON STREET, CAUSEWAY BAY, HONG KONG",
-      "seating": null,
-      "telephone": "2510 7538",
-      "website": "http://www.spaghettihouse.com/",
       "mapkit": "NO",
       "contact_source": "Chrome"
     },
