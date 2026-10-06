@@ -1,29 +1,35 @@
 {
-  "state": "up_to_date",
-  "message": "FEHD re-dated to October 5; no restaurants changed.",
-  "last_checked_hkt": "2026-10-05 19:34",
-  "fehd_date": "October 5",
-  "total": 993,
+  "state": "updated",
+  "message": "",
+  "last_checked_hkt": "2026-10-06 19:19",
+  "fehd_date": "October 6",
+  "total": 995,
   "last_change": {
-    "date": "2026-10-02",
-    "fehd_date": "October 2",
-    "added": [],
-    "removed": [
+    "date": "2026-10-06",
+    "fehd_date": "October 6",
+    "added": [
       {
-        "licence": "2212814941",
-        "en": "The Spaghetti House",
-        "tc": "意粉屋",
-        "seating": ""
+        "licence": "3162805159",
+        "en": "BLACK SUGAR",
+        "tc": "BLACK SUGAR",
+        "district": "Mong Kok"
       },
       {
-        "licence": "2212816673",
-        "en": "Rakuraku Ramen",
-        "tc": "Rakuraku Ramen",
-        "seating": "indoor"
+        "licence": "3161811443",
+        "en": "YEARS",
+        "tc": "素年",
+        "district": "Yau Tsim"
       }
-    ]
+    ],
+    "removed": []
   },
   "history": [
+    {
+      "checked": "2026-10-06 19:19",
+      "fehd_date": "October 6",
+      "added": 2,
+      "removed": 0
+    },
     {
       "checked": "2026-10-02 18:33",
       "fehd_date": "October 2",
@@ -137,12 +143,6 @@
       "fehd_date": "August 31",
       "added": 1,
       "removed": 0
-    },
-    {
-      "checked": "2026-08-28 01:59",
-      "fehd_date": "August 27",
-      "added": 1,
-      "removed": 1
     }
   ]
 }

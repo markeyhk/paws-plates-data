@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-05",
+  "updated": "2026-10-06",
   "arrangements": {
     "2218818820": "indoor",
     "3118805563": "indoor",
@@ -11299,6 +11299,28 @@
       "name_zh": "Next Station",
       "district": "Yuen Long",
       "address": "SHOP NO. 10, G/F, FU LOY GARDEN, 7 MA WANG ROAD, YUEN LONG, NEW TERRITORIES",
+      "seating": null,
+      "telephone": null,
+      "website": null,
+      "mapkit": null,
+      "contact_source": null
+    },
+    "3162805159": {
+      "name_en": "BLACK SUGAR",
+      "name_zh": "BLACK SUGAR",
+      "district": "Mong Kok",
+      "address": "SHOP NO.G16 ON GROUND FLOOR, OLYMPIAN CITY TWO, 18 HOI TING ROAD, KOWLOON",
+      "seating": null,
+      "telephone": null,
+      "website": null,
+      "mapkit": null,
+      "contact_source": null
+    },
+    "3161811443": {
+      "name_en": "YEARS",
+      "name_zh": "素年",
+      "district": "Yau Tsim",
+      "address": "UNIT GF-05 AND THE OUTSIDE SEATING ACCOMMODATION AT SHOP FRONT, G/F, ART PARK, NO. 22 MUSEUM DRIVE, WEST KOWLOON CULTURAL DISTRICT, KOWLOON",
       "seating": null,
       "telephone": null,
       "website": null,
