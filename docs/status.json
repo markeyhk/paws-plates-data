@@ -1,8 +1,8 @@
 {
-  "state": "updated",
-  "message": "",
-  "last_checked_hkt": "2026-10-06 19:19",
-  "fehd_date": "October 6",
+  "state": "up_to_date",
+  "message": "FEHD re-dated to October 7; no restaurants changed.",
+  "last_checked_hkt": "2026-10-07 19:07",
+  "fehd_date": "October 7",
   "total": 995,
   "last_change": {
     "date": "2026-10-06",
