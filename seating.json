@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-07",
+  "updated": "2026-10-08",
   "arrangements": {
     "2218818820": "indoor",
     "3118805563": "indoor",
@@ -124,7 +124,6 @@
     "2251806367": "indoor",
     "2251809551": "indoor",
     "2251809010": "indoor",
-    "2251807397": "indoor",
     "2251809366": "indoor",
     "2251803766": "indoor",
     "3151803250": "indoor",
@@ -3305,17 +3304,6 @@
       "seating": "indoor",
       "telephone": "+852 2337 3133",
       "website": "https://www.instagram.com/phi.coffee.pancake?igsh=bjFnbWJ2cGE4MG5j",
-      "mapkit": "YES - both",
-      "contact_source": "MapKit"
-    },
-    "2251807397": {
-      "name_en": "RAKURAKU RAMEN",
-      "name_zh": "RAKURAKU RAMEN",
-      "district": "Kwun Tong",
-      "address": "UNITS 9 & 10, LEVEL 10, MEGABOX, ENTERPRISE SQUARE FIVE, 38 WANG CHIU ROAD, KOWLOON BAY, KOWLOON",
-      "seating": "indoor",
-      "telephone": "+852 2331 3326",
-      "website": "http://tastegourmet.co/zh_hk/restaurant/11/rakuraku-ramen",
       "mapkit": "YES - both",
       "contact_source": "MapKit"
     },
@@ -11321,6 +11309,17 @@
       "name_zh": "素年",
       "district": "Yau Tsim",
       "address": "UNIT GF-05 AND THE OUTSIDE SEATING ACCOMMODATION AT SHOP FRONT, G/F, ART PARK, NO. 22 MUSEUM DRIVE, WEST KOWLOON CULTURAL DISTRICT, KOWLOON",
+      "seating": null,
+      "telephone": null,
+      "website": null,
+      "mapkit": null,
+      "contact_source": null
+    },
+    "2261809271": {
+      "name_en": "DAB-PA PEKING & SZECHUAN CUISINE",
+      "name_zh": "稻成亞丁京川料理",
+      "district": "Yau Tsim",
+      "address": "SHOP 1047, FIRST LEVEL AT ELEMENTS, NO. 1 AUSTIN ROAD WEST, KOWLOON",
       "seating": null,
       "telephone": null,
       "website": null,

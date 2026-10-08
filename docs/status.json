@@ -1,29 +1,36 @@
 {
-  "state": "up_to_date",
-  "message": "FEHD re-dated to October 7; no restaurants changed.",
-  "last_checked_hkt": "2026-10-07 19:07",
-  "fehd_date": "October 7",
+  "state": "updated",
+  "message": "",
+  "last_checked_hkt": "2026-10-08 19:25",
+  "fehd_date": "October 8",
   "total": 995,
   "last_change": {
-    "date": "2026-10-06",
-    "fehd_date": "October 6",
+    "date": "2026-10-08",
+    "fehd_date": "October 8",
     "added": [
       {
-        "licence": "3162805159",
-        "en": "BLACK SUGAR",
-        "tc": "BLACK SUGAR",
-        "district": "Mong Kok"
-      },
-      {
-        "licence": "3161811443",
-        "en": "YEARS",
-        "tc": "素年",
+        "licence": "2261809271",
+        "en": "DAB-PA PEKING & SZECHUAN CUISINE",
+        "tc": "稻成亞丁京川料理",
         "district": "Yau Tsim"
       }
     ],
-    "removed": []
+    "removed": [
+      {
+        "licence": "2251807397",
+        "en": "RAKURAKU RAMEN",
+        "tc": "RAKURAKU RAMEN",
+        "seating": "indoor"
+      }
+    ]
   },
   "history": [
+    {
+      "checked": "2026-10-08 19:25",
+      "fehd_date": "October 8",
+      "added": 1,
+      "removed": 1
+    },
     {
       "checked": "2026-10-06 19:19",
       "fehd_date": "October 6",
@@ -135,12 +142,6 @@
     {
       "checked": "2026-09-01 16:26",
       "fehd_date": "September 1",
-      "added": 1,
-      "removed": 0
-    },
-    {
-      "checked": "2026-08-31 18:36",
-      "fehd_date": "August 31",
       "added": 1,
       "removed": 0
     }
