@@ -1,30 +1,54 @@
 {
   "state": "updated",
   "message": "",
-  "last_checked_hkt": "2026-10-08 19:25",
-  "fehd_date": "October 8",
-  "total": 995,
+  "last_checked_hkt": "2026-10-09 19:22",
+  "fehd_date": "October 9",
+  "total": 998,
   "last_change": {
-    "date": "2026-10-08",
-    "fehd_date": "October 8",
+    "date": "2026-10-09",
+    "fehd_date": "October 9",
     "added": [
       {
-        "licence": "2261809271",
-        "en": "DAB-PA PEKING & SZECHUAN CUISINE",
-        "tc": "稻成亞丁京川料理",
-        "district": "Yau Tsim"
+        "licence": "3118810727",
+        "en": "幕多大富蠔",
+        "tc": "幕多大富蠔",
+        "district": "Central/Western"
+      },
+      {
+        "licence": "2252810251",
+        "en": "NAN VALLEY",
+        "tc": "南谷",
+        "district": "Kowloon City"
+      },
+      {
+        "licence": "2252807109",
+        "en": "讚好",
+        "tc": "讚好",
+        "district": "Kowloon City"
+      },
+      {
+        "licence": "2297808941",
+        "en": "Butlery",
+        "tc": "Butlery",
+        "district": "Sha Tin"
       }
     ],
     "removed": [
       {
-        "licence": "2251807397",
-        "en": "RAKURAKU RAMEN",
-        "tc": "RAKURAKU RAMEN",
-        "seating": "indoor"
+        "licence": "2261818561",
+        "en": "RICKY'S KITCHEN",
+        "tc": "RICKY'S KITCHEN",
+        "seating": ""
       }
     ]
   },
   "history": [
+    {
+      "checked": "2026-10-09 19:22",
+      "fehd_date": "October 9",
+      "added": 4,
+      "removed": 1
+    },
     {
       "checked": "2026-10-08 19:25",
       "fehd_date": "October 8",
@@ -138,12 +162,6 @@
       "fehd_date": "September 2",
       "added": 0,
       "removed": 1
-    },
-    {
-      "checked": "2026-09-01 16:26",
-      "fehd_date": "September 1",
-      "added": 1,
-      "removed": 0
     }
   ]
 }

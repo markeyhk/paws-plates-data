@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-08",
+  "updated": "2026-10-09",
   "arrangements": {
     "2218818820": "indoor",
     "3118805563": "indoor",
@@ -9610,17 +9610,6 @@
       "mapkit": "YES - both",
       "contact_source": "MapKit"
     },
-    "2261818561": {
-      "name_en": "RICKY'S KITCHEN",
-      "name_zh": "RICKY'S KITCHEN",
-      "district": "Yau Tsim",
-      "address": "SHOP B233A, BASEMENT 2, K11 ART MALL, 18 HANOI ROAD, TSIM SHA TSUI, KOWLOON",
-      "seating": null,
-      "telephone": "+852 2885 2235",
-      "website": "https://www.thefoodstoryhk.com/rickyskitchenhk",
-      "mapkit": "YES - both",
-      "contact_source": "MapKit"
-    },
     "3161806003": {
       "name_en": "Reaction Coffee Roasters",
       "name_zh": "Reaction Coffee Roasters",
@@ -11320,6 +11309,50 @@
       "name_zh": "稻成亞丁京川料理",
       "district": "Yau Tsim",
       "address": "SHOP 1047, FIRST LEVEL AT ELEMENTS, NO. 1 AUSTIN ROAD WEST, KOWLOON",
+      "seating": null,
+      "telephone": null,
+      "website": null,
+      "mapkit": null,
+      "contact_source": null
+    },
+    "3118810727": {
+      "name_en": "幕多大富蠔",
+      "name_zh": "幕多大富蠔",
+      "district": "Central/Western",
+      "address": "PORTION A OF G/F, SIU CHEUNG BUILDING, 3 CHIU KWONG STREET, SAI YING PUN, HONG KONG",
+      "seating": null,
+      "telephone": null,
+      "website": null,
+      "mapkit": null,
+      "contact_source": null
+    },
+    "2252810251": {
+      "name_en": "NAN VALLEY",
+      "name_zh": "南谷",
+      "district": "Kowloon City",
+      "address": "SHOP NO. M2-317, LEVEL 3, KAI TAK MALL 2, KAI TAK SPORTS PARK, KAI TAK, KOWLOON CITY, KOWLOON",
+      "seating": null,
+      "telephone": null,
+      "website": null,
+      "mapkit": null,
+      "contact_source": null
+    },
+    "2252807109": {
+      "name_en": "讚好",
+      "name_zh": "讚好",
+      "district": "Kowloon City",
+      "address": "SHOP NO. 13 ON GROUND FLOOR, UNITED BUILDING, NOS. 1-7 WU KWONG STREET, KOWLOON",
+      "seating": null,
+      "telephone": null,
+      "website": null,
+      "mapkit": null,
+      "contact_source": null
+    },
+    "2297808941": {
+      "name_en": "Butlery",
+      "name_zh": "Butlery",
+      "district": "Sha Tin",
+      "address": "SHOP NO. 479A, LEVEL 4, NEW TOWN PLAZA, PHASE I, SHA TIN, NEW TERRITORIES",
       "seating": null,
       "telephone": null,
       "website": null,
