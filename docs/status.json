@@ -1,48 +1,29 @@
 {
-  "state": "up_to_date",
-  "message": "FEHD re-dated to October 14; no restaurants changed.",
-  "last_checked_hkt": "2026-10-14 17:34",
-  "fehd_date": "October 14",
-  "total": 998,
+  "state": "updated",
+  "message": "",
+  "last_checked_hkt": "2026-10-15 17:12",
+  "fehd_date": "October 15",
+  "total": 999,
   "last_change": {
-    "date": "2026-10-09",
-    "fehd_date": "October 9",
+    "date": "2026-10-15",
+    "fehd_date": "October 15",
     "added": [
       {
-        "licence": "3118810727",
-        "en": "幕多大富蠔",
-        "tc": "幕多大富蠔",
-        "district": "Central/Western"
-      },
-      {
-        "licence": "2252810251",
-        "en": "NAN VALLEY",
-        "tc": "南谷",
-        "district": "Kowloon City"
-      },
-      {
-        "licence": "2252807109",
-        "en": "讚好",
-        "tc": "讚好",
-        "district": "Kowloon City"
-      },
-      {
-        "licence": "2297808941",
-        "en": "Butlery",
-        "tc": "Butlery",
-        "district": "Sha Tin"
+        "licence": "3198800784",
+        "en": "Sleepless",
+        "tc": "Sleepless",
+        "district": "Sai Kung"
       }
     ],
-    "removed": [
-      {
-        "licence": "2261818561",
-        "en": "RICKY'S KITCHEN",
-        "tc": "RICKY'S KITCHEN",
-        "seating": ""
-      }
-    ]
+    "removed": []
   },
   "history": [
+    {
+      "checked": "2026-10-15 17:12",
+      "fehd_date": "October 15",
+      "added": 1,
+      "removed": 0
+    },
     {
       "checked": "2026-10-09 19:22",
       "fehd_date": "October 9",
@@ -155,12 +136,6 @@
       "checked": "2026-09-03 20:07",
       "fehd_date": "September 3",
       "added": 1,
-      "removed": 1
-    },
-    {
-      "checked": "2026-09-02 19:38",
-      "fehd_date": "September 2",
-      "added": 0,
       "removed": 1
     }
   ]
