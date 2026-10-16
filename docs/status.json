@@ -1,23 +1,29 @@
 {
   "state": "updated",
   "message": "",
-  "last_checked_hkt": "2026-10-15 17:12",
-  "fehd_date": "October 15",
-  "total": 999,
+  "last_checked_hkt": "2026-10-16 17:04",
+  "fehd_date": "October 16",
+  "total": 998,
   "last_change": {
-    "date": "2026-10-15",
-    "fehd_date": "October 15",
-    "added": [
+    "date": "2026-10-16",
+    "fehd_date": "October 16",
+    "added": [],
+    "removed": [
       {
-        "licence": "3198800784",
-        "en": "Sleepless",
-        "tc": "Sleepless",
-        "district": "Sai Kung"
+        "licence": "2213148153",
+        "en": "Queen Victoria 8",
+        "tc": "八公館",
+        "seating": "indoor"
       }
-    ],
-    "removed": []
+    ]
   },
   "history": [
+    {
+      "checked": "2026-10-16 17:04",
+      "fehd_date": "October 16",
+      "added": 0,
+      "removed": 1
+    },
     {
       "checked": "2026-10-15 17:12",
       "fehd_date": "October 15",
@@ -131,12 +137,6 @@
       "fehd_date": "September 4",
       "added": 1,
       "removed": 0
-    },
-    {
-      "checked": "2026-09-03 20:07",
-      "fehd_date": "September 3",
-      "added": 1,
-      "removed": 1
     }
   ]
 }

@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-15",
+  "updated": "2026-10-16",
   "arrangements": {
     "2218818820": "indoor",
     "3118805563": "indoor",
@@ -34,7 +34,6 @@
     "3118810815": "indoor",
     "2218801457": "indoor",
     "3118808340": "indoor",
-    "2213148153": "indoor",
     "2218813843": "outdoor",
     "2218807367": "indoor",
     "2218815900": "indoor",
@@ -1030,17 +1029,6 @@
       "website": "https://www.instagram.com/phi.coffee_pancake",
       "mapkit": "NO",
       "contact_source": "Chrome"
-    },
-    "2213148153": {
-      "name_en": "Queen Victoria 8",
-      "name_zh": "八公館",
-      "district": "Central/Western",
-      "address": "G/F. & M/F., 5-8 QUEEN VICTORIA STREET, CENTRAL, HONG KONG",
-      "seating": "indoor",
-      "telephone": "+852 2526 3163",
-      "website": "https://www.facebook.com/share/1F45gw4bkK/?mibextid=wwXIfr",
-      "mapkit": "YES - both",
-      "contact_source": "MapKit"
     },
     "2218813843": {
       "name_en": "RAJASTHAN RIFLES",
