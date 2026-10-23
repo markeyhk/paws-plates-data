@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-22",
+  "updated": "2026-10-23",
   "arrangements": {
     "2218818820": "indoor",
     "3118805563": "indoor",
@@ -11353,6 +11353,17 @@
       "name_zh": "Sleepless",
       "district": "Sai Kung",
       "address": "G/F, 11 SEE CHEUNG STREET, SAI KUNG, NEW TERRITORIES",
+      "seating": null,
+      "telephone": null,
+      "website": null,
+      "mapkit": null,
+      "contact_source": null
+    },
+    "3117000338": {
+      "name_en": "Ora Lamma Island",
+      "name_zh": "Ora Lamma Island",
+      "district": "Islands",
+      "address": "79 YUNG SHUE WAN MAIN STREET, YUNG SHUE WAN, LAMMA ISLAND, NEW TERRITORIES",
       "seating": null,
       "telephone": null,
       "website": null,

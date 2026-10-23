@@ -1,23 +1,29 @@
 {
-  "state": "up_to_date",
-  "message": "FEHD re-dated to October 22; no restaurants changed.",
-  "last_checked_hkt": "2026-10-22 17:27",
-  "fehd_date": "October 22",
-  "total": 998,
+  "state": "updated",
+  "message": "",
+  "last_checked_hkt": "2026-10-23 17:23",
+  "fehd_date": "October 23",
+  "total": 999,
   "last_change": {
-    "date": "2026-10-16",
-    "fehd_date": "October 16",
-    "added": [],
-    "removed": [
+    "date": "2026-10-23",
+    "fehd_date": "October 23",
+    "added": [
       {
-        "licence": "2213148153",
-        "en": "Queen Victoria 8",
-        "tc": "八公館",
-        "seating": "indoor"
+        "licence": "3117000338",
+        "en": "Ora Lamma Island",
+        "tc": "Ora Lamma Island",
+        "district": "Islands"
       }
-    ]
+    ],
+    "removed": []
   },
   "history": [
+    {
+      "checked": "2026-10-23 17:23",
+      "fehd_date": "October 23",
+      "added": 1,
+      "removed": 0
+    },
     {
       "checked": "2026-10-16 17:04",
       "fehd_date": "October 16",
@@ -131,12 +137,6 @@
       "fehd_date": "September 7",
       "added": 1,
       "removed": 2
-    },
-    {
-      "checked": "2026-09-04 20:09",
-      "fehd_date": "September 4",
-      "added": 1,
-      "removed": 0
     }
   ]
 }
