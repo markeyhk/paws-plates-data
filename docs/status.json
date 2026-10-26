@@ -1,23 +1,29 @@
 {
   "state": "updated",
   "message": "",
-  "last_checked_hkt": "2026-10-23 17:23",
-  "fehd_date": "October 23",
-  "total": 999,
+  "last_checked_hkt": "2026-10-26 18:13",
+  "fehd_date": "October 26",
+  "total": 1000,
   "last_change": {
-    "date": "2026-10-23",
-    "fehd_date": "October 23",
+    "date": "2026-10-26",
+    "fehd_date": "October 26",
     "added": [
       {
-        "licence": "3117000338",
-        "en": "Ora Lamma Island",
-        "tc": "Ora Lamma Island",
-        "district": "Islands"
+        "licence": "2292802090",
+        "en": "豐盛閣",
+        "tc": "豐盛閣",
+        "district": "Tsuen Wan"
       }
     ],
     "removed": []
   },
   "history": [
+    {
+      "checked": "2026-10-26 18:13",
+      "fehd_date": "October 26",
+      "added": 1,
+      "removed": 0
+    },
     {
       "checked": "2026-10-23 17:23",
       "fehd_date": "October 23",
@@ -131,12 +137,6 @@
       "fehd_date": "September 8",
       "added": 2,
       "removed": 0
-    },
-    {
-      "checked": "2026-09-07 17:25",
-      "fehd_date": "September 7",
-      "added": 1,
-      "removed": 2
     }
   ]
 }
