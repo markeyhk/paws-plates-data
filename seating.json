@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-27",
+  "updated": "2026-10-28",
   "arrangements": {
     "2218818820": "indoor",
     "3118805563": "indoor",
@@ -775,17 +775,6 @@
       "telephone": "+852 2352 7778",
       "website": "https://zh.yelp.com.hk/biz/%E8%98%87%E6%9D%AD%E5%86%B0%E5%AE%A4-%E9%A6%99%E6%B8%AF",
       "mapkit": "YES - both",
-      "contact_source": "MapKit"
-    },
-    "2218812381": {
-      "name_en": "Jervois Restaurant",
-      "name_zh": "蘇杭餐廳",
-      "district": "Central/Western",
-      "address": "SHOP NO. 7, BASEMENT, KAI FUNG MANSION, NOS. 2-24 JERVOIS STREET AND NOS. 189-205 QUEEN'S ROAD CENTRAL, CENTRAL, HONG KONG",
-      "seating": null,
-      "telephone": "+852 3956 5500",
-      "website": null,
-      "mapkit": "YES - telephone only",
       "contact_source": "MapKit"
     },
     "2218815441": {
