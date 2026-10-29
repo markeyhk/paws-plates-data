@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-28",
+  "updated": "2026-10-29",
   "arrangements": {
     "2218818820": "indoor",
     "3118805563": "indoor",
@@ -147,7 +147,6 @@
     "3162806408": "indoor",
     "2262817398": "indoor",
     "2262811080": "indoor",
-    "2296801925": "indoor",
     "2296802672": "indoor",
     "2296000142": "indoor",
     "3198801307": "indoor",
@@ -4088,17 +4087,6 @@
       "mapkit": "NO",
       "contact_source": "Chrome"
     },
-    "2296801925": {
-      "name_en": "Cafe 100%",
-      "name_zh": "百份百餐廳",
-      "district": "North",
-      "address": "SHOP NO. G06 (PORTION A), G/F, GREEN CODE PLAZA, 1 MA SIK ROAD, FANLING, NEW TERRITORIES",
-      "seating": "indoor",
-      "telephone": "+852 2554 9100",
-      "website": "https://www.tasteofasia.com.hk/brand/cafe-100",
-      "mapkit": "YES - telephone only",
-      "contact_source": "MapKit"
-    },
     "2296802672": {
       "name_en": "FARM RESTAURANT",
       "name_zh": "農莊餐廳",
@@ -4493,17 +4481,6 @@
       "telephone": "+852 3482 1238",
       "website": "https://www.facebook.com/MediumRareSteak.jp",
       "mapkit": "YES - telephone only",
-      "contact_source": "MapKit"
-    },
-    "2298807255": {
-      "name_en": "MILK CAFE",
-      "name_zh": "牛奶冰室",
-      "district": "Sai Kung",
-      "address": "SHOP NOS. G01-G02, G/F, SAVANNAH PLACE, 3 CHI SHIN STREET, TSEUNG KWAN O, SAI KUNG, NEW TERRITORIES",
-      "seating": null,
-      "telephone": "+852 2326 1922",
-      "website": "https://www.tasteofasia.com.hk/brand/milk-cafe",
-      "mapkit": "YES - both",
       "contact_source": "MapKit"
     },
     "2298001176": {
@@ -6440,17 +6417,6 @@
       "telephone": "+852 6878 9632",
       "website": "https://instagram.com/hoper_beer?igshid=OGQ5ZDc2ODk2ZA==",
       "mapkit": "YES - both",
-      "contact_source": "MapKit"
-    },
-    "2295804149": {
-      "name_en": "MILK CAFÉ",
-      "name_zh": "牛奶冰室",
-      "district": "Tai Po",
-      "address": "SHOP NO. 108-109, LEVEL 1, GO PARK, 9 HOI YING ROAD, TAI PO, NEW TERRITORIES",
-      "seating": null,
-      "telephone": "+852 3563 9709",
-      "website": null,
-      "mapkit": "YES - telephone only",
       "contact_source": "MapKit"
     },
     "2295804103": {

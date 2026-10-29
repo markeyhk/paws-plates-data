@@ -1,23 +1,41 @@
 {
   "state": "updated",
   "message": "",
-  "last_checked_hkt": "2026-10-28 18:38",
-  "fehd_date": "October 28",
-  "total": 999,
+  "last_checked_hkt": "2026-10-29 18:56",
+  "fehd_date": "October 29",
+  "total": 996,
   "last_change": {
-    "date": "2026-10-28",
-    "fehd_date": "October 28",
+    "date": "2026-10-29",
+    "fehd_date": "October 29",
     "added": [],
     "removed": [
       {
-        "licence": "2218812381",
-        "en": "Jervois Restaurant",
-        "tc": "蘇杭餐廳",
+        "licence": "2295804149",
+        "en": "MILK CAFÉ",
+        "tc": "牛奶冰室",
+        "seating": ""
+      },
+      {
+        "licence": "2296801925",
+        "en": "Cafe 100%",
+        "tc": "百份百餐廳",
+        "seating": "indoor"
+      },
+      {
+        "licence": "2298807255",
+        "en": "MILK CAFE",
+        "tc": "牛奶冰室",
         "seating": ""
       }
     ]
   },
   "history": [
+    {
+      "checked": "2026-10-29 18:56",
+      "fehd_date": "October 29",
+      "added": 0,
+      "removed": 3
+    },
     {
       "checked": "2026-10-28 18:38",
       "fehd_date": "October 28",
@@ -129,12 +147,6 @@
     {
       "checked": "2026-09-11 16:57",
       "fehd_date": "September 11",
-      "added": 1,
-      "removed": 0
-    },
-    {
-      "checked": "2026-09-09 17:00",
-      "fehd_date": "September 9",
       "added": 1,
       "removed": 0
     }
