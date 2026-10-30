@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-29",
+  "updated": "2026-10-30",
   "arrangements": {
     "2218818820": "indoor",
     "3118805563": "indoor",
@@ -5693,17 +5693,6 @@
       "mapkit": "YES - both",
       "contact_source": "MapKit"
     },
-    "2263804924": {
-      "name_en": "Milk Café",
-      "name_zh": "牛奶冰室",
-      "district": "Sham Shui Po",
-      "address": "SHOP NO. 1, G/F, HEYA STAR, 368 CASTLE PEAK ROAD, CHEUNG SHA WAN, KOWLOON",
-      "seating": null,
-      "telephone": "+852 2739 8568",
-      "website": "https://www.tasteofasia.com.hk/brand/milk-cafe",
-      "mapkit": "YES - both",
-      "contact_source": "MapKit"
-    },
     "2263807808": {
       "name_en": "Moon Palace",
       "name_zh": "望月樓",
@@ -7297,17 +7286,6 @@
       "telephone": "+852 2363 4908",
       "website": null,
       "mapkit": "YES - telephone only",
-      "contact_source": "MapKit"
-    },
-    "2293807515": {
-      "name_en": "MILK CAFE",
-      "name_zh": "牛奶冰室",
-      "district": "Tuen Mun",
-      "address": "SHOP NO. 12 & 13, G/F, NOVO WALK, NOVO LAND, NO. 8 YAN PO ROAD, TUEN MUN, NEW TERRITORIES",
-      "seating": null,
-      "telephone": "+852 3549 8231",
-      "website": "https://www.tasteofasia.com.hk/brand/milk-cafe",
-      "mapkit": "YES - both",
       "contact_source": "MapKit"
     },
     "2293001126": {
