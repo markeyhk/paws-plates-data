@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-02",
+  "updated": "2026-11-03",
   "arrangements": {
     "2218818820": "indoor",
     "3118805563": "indoor",
@@ -11308,6 +11308,17 @@
       "name_zh": "豐盛閣",
       "district": "Tsuen Wan",
       "address": "LG/F (PORTION A),  & OUTSIDE SEATING ACCOMMODATION, NOAH'S ARK RESORT, MA WAN PARK, PAK YAN ROAD, MA WAN, TSUEN WAN, NEW TERRITORIES",
+      "seating": null,
+      "telephone": null,
+      "website": null,
+      "mapkit": null,
+      "contact_source": null
+    },
+    "2218809594": {
+      "name_en": "Porterhouse",
+      "name_zh": "Porterhouse",
+      "district": "Central/Western",
+      "address": "24/F., CALIFORNIA TOWER, 30-36 D'AGUILAR STREET, CENTRAL, HONG KONG",
       "seating": null,
       "telephone": null,
       "website": null,
