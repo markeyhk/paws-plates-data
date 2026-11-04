@@ -11324,6 +11324,39 @@
       "website": null,
       "mapkit": null,
       "contact_source": null
+    },
+    "2298800324": {
+      "name_en": "The Conservatory",
+      "name_zh": "The Conservatory",
+      "district": "Sai Kung",
+      "address": "G/F AND C/L (MINOR PORTION) AND THE OUTSIDE SEATING ACCOMMODATION AT SHOP FRONT, 26 WAN KING PATH, SAI KUNG, NEW TERRITORIES",
+      "seating": null,
+      "telephone": null,
+      "website": null,
+      "mapkit": null,
+      "contact_source": null
+    },
+    "3197802419": {
+      "name_en": "SMACK",
+      "name_zh": "SMACK",
+      "district": "Sha Tin",
+      "address": "UNIT S161, 1/F, BUILDING 12W, PHASE THREE, HONG KONG SCIENCE PARK, PAK SHEK KOK, NEW TERRITORIES",
+      "seating": null,
+      "telephone": null,
+      "website": null,
+      "mapkit": null,
+      "contact_source": null
+    },
+    "2292807633": {
+      "name_en": "FEATHER AND BONE",
+      "name_zh": "FEATHER AND BONE",
+      "district": "Tsuen Wan",
+      "address": "MAJOR PORTION OF SHOP NOS. G09 AND GO9A, G/F, OP MALL, 100 TAI HO ROAD, TSUEN WAN, NEW TERRITORIES",
+      "seating": null,
+      "telephone": null,
+      "website": null,
+      "mapkit": null,
+      "contact_source": null
     }
   }
 }

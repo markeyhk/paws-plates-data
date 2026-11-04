@@ -1,23 +1,41 @@
 {
   "state": "updated",
   "message": "",
-  "last_checked_hkt": "2026-11-03 19:59",
-  "fehd_date": "November 3",
-  "total": 995,
+  "last_checked_hkt": "2026-11-04 20:14",
+  "fehd_date": "November 4",
+  "total": 998,
   "last_change": {
-    "date": "2026-11-03",
-    "fehd_date": "November 3",
+    "date": "2026-11-04",
+    "fehd_date": "November 4",
     "added": [
       {
-        "licence": "2218809594",
-        "en": "Porterhouse",
-        "tc": "Porterhouse",
-        "district": "Central/Western"
+        "licence": "2298800324",
+        "en": "The Conservatory",
+        "tc": "The Conservatory",
+        "district": "Sai Kung"
+      },
+      {
+        "licence": "3197802419",
+        "en": "SMACK",
+        "tc": "SMACK",
+        "district": "Sha Tin"
+      },
+      {
+        "licence": "2292807633",
+        "en": "FEATHER AND BONE",
+        "tc": "FEATHER AND BONE",
+        "district": "Tsuen Wan"
       }
     ],
     "removed": []
   },
   "history": [
+    {
+      "checked": "2026-11-04 20:14",
+      "fehd_date": "November 4",
+      "added": 3,
+      "removed": 0
+    },
     {
       "checked": "2026-11-03 19:59",
       "fehd_date": "November 3",
@@ -129,12 +147,6 @@
     {
       "checked": "2026-09-21 17:59",
       "fehd_date": "September 21",
-      "added": 0,
-      "removed": 1
-    },
-    {
-      "checked": "2026-09-18 17:02",
-      "fehd_date": "September 18",
       "added": 0,
       "removed": 1
     }
