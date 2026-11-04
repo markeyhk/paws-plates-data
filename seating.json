@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-03",
+  "updated": "2026-11-04",
   "arrangements": {
     "2218818820": "indoor",
     "3118805563": "indoor",
@@ -26,7 +26,7 @@
     "2218807756": "indoor",
     "2218818802": "indoor",
     "2218815159": "indoor",
-    "2218811999": "outdoor",
+    "2218811999": "indoor",
     "2218810145": "indoor",
     "2218819753": "indoor",
     "2218819531": "indoor",
@@ -858,7 +858,7 @@
       "name_zh": "LA RAMBLA",
       "district": "Central/Western",
       "address": "SHOP NOS. 3071-73 AND THE OUTSIDE SEATING ACCOMMODATION AT REAR, LEVEL 3, IFC MALL, 8 FINANCE STREET, CENTRAL, HONG KONG",
-      "seating": "outdoor",
+      "seating": "indoor",
       "telephone": "+852 2661 1161",
       "website": "http://www.larambla.hk",
       "mapkit": "YES - both",
