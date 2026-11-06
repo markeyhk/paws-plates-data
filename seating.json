@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-05",
+  "updated": "2026-11-06",
   "arrangements": {
     "2218818820": "indoor",
     "3118805563": "indoor",
@@ -4262,17 +4262,6 @@
       "website": "https://www.instagram.com/coffeebreak_hk/",
       "mapkit": "YES - both",
       "contact_source": "MapKit"
-    },
-    "2298805639": {
-      "name_en": "Cafe 100%",
-      "name_zh": "百分百餐廳",
-      "district": "Sai Kung",
-      "address": "SHOP NO. G27(PORTION A) & THE PORTION AREA NEAR SHOP NO. G27, G/F, METRO CITY PHASE 1, 1 WAN HANG ROAD, TSEUNG KWAN O, SAI KUNG, NEW TERRITORIES",
-      "seating": null,
-      "telephone": null,
-      "website": "https://www.tasteofasia.com.hk/brand/cafe-100",
-      "mapkit": "NO",
-      "contact_source": "Chrome website"
     },
     "3198801219": {
       "name_en": "Camden Town",
@@ -11352,6 +11341,17 @@
       "name_zh": "FEATHER AND BONE",
       "district": "Tsuen Wan",
       "address": "MAJOR PORTION OF SHOP NOS. G09 AND GO9A, G/F, OP MALL, 100 TAI HO ROAD, TSUEN WAN, NEW TERRITORIES",
+      "seating": null,
+      "telephone": null,
+      "website": null,
+      "mapkit": null,
+      "contact_source": null
+    },
+    "2212813294": {
+      "name_en": "SHACK TAPAZAKA",
+      "name_zh": "SHACK TAPAZAKA",
+      "district": "Wan Chai",
+      "address": "SHOP A, G/F., NO. 1 YIU WA STREET, CAUSEWAY BAY, HONG KONG",
       "seating": null,
       "telephone": null,
       "website": null,
