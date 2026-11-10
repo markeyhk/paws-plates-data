@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-09",
+  "updated": "2026-11-10",
   "arrangements": {
     "2218818820": "indoor",
     "3118805563": "indoor",
@@ -163,7 +163,6 @@
     "2298802612": "indoor",
     "2298806605": "indoor",
     "2298803749": "indoor",
-    "2298805480": "indoor",
     "3198800793": "indoor",
     "2298806067": "indoor",
     "2298801150": "indoor",
@@ -4491,17 +4490,6 @@
       "seating": null,
       "telephone": "+852 2811 1957",
       "website": "http://www.modernshanghai.com.hk/",
-      "mapkit": "YES - both",
-      "contact_source": "MapKit"
-    },
-    "2298805480": {
-      "name_en": "Momo Classic",
-      "name_zh": "木 兆 小 品",
-      "district": "Sai Kung",
-      "address": "SHOP NO. G17, G/F, POP WALK 2, 19 TONG YIN STREET, TSEUNG KWAN O, NEW TERRITORIES",
-      "seating": "indoor",
-      "telephone": "+852 2549 3818",
-      "website": "https://www.tasteofasia.com.hk/brand/momo-classic",
       "mapkit": "YES - both",
       "contact_source": "MapKit"
     },
