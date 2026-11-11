@@ -1,23 +1,48 @@
 {
   "state": "updated",
   "message": "",
-  "last_checked_hkt": "2026-11-10 20:43",
-  "fehd_date": "November 10",
-  "total": 997,
+  "last_checked_hkt": "2026-11-11 19:55",
+  "fehd_date": "November 11",
+  "total": 995,
   "last_change": {
-    "date": "2026-11-10",
-    "fehd_date": "November 10",
-    "added": [],
+    "date": "2026-11-11",
+    "fehd_date": "November 11",
+    "added": [
+      {
+        "licence": "2293801401",
+        "en": "耀仔記",
+        "tc": "耀仔記",
+        "district": "Tuen Mun"
+      }
+    ],
     "removed": [
       {
-        "licence": "2298805480",
-        "en": "Momo Classic",
-        "tc": "木 兆 小 品",
+        "licence": "2218815900",
+        "en": "SUSHI IMA ODDS ANA TEN",
+        "tc": "今鮨天穴",
+        "seating": "indoor"
+      },
+      {
+        "licence": "2253804356",
+        "en": "ITAMAMA BISTRO & Tao Classic",
+        "tc": "ITAMAMA BISTRO & Tao Classic",
+        "seating": ""
+      },
+      {
+        "licence": "2262814849",
+        "en": "CAFE 100%",
+        "tc": "百份百餐廳",
         "seating": "indoor"
       }
     ]
   },
   "history": [
+    {
+      "checked": "2026-11-11 19:55",
+      "fehd_date": "November 11",
+      "added": 1,
+      "removed": 3
+    },
     {
       "checked": "2026-11-10 20:43",
       "fehd_date": "November 10",
@@ -131,12 +156,6 @@
       "fehd_date": "September 24",
       "added": 0,
       "removed": 1
-    },
-    {
-      "checked": "2026-09-23 17:21",
-      "fehd_date": "September 23",
-      "added": 1,
-      "removed": 2
     }
   ]
 }

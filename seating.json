@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-10",
+  "updated": "2026-11-11",
   "arrangements": {
     "2218818820": "indoor",
     "3118805563": "indoor",
@@ -36,7 +36,6 @@
     "3118808340": "indoor",
     "2218813843": "outdoor",
     "2218807367": "indoor",
-    "2218815900": "indoor",
     "2218815308": "indoor",
     "3118801233": "indoor",
     "2218806762": "indoor",
@@ -132,7 +131,6 @@
     "2262809074": "indoor",
     "3162806611": "indoor",
     "2262812825": "indoor",
-    "2262814849": "indoor",
     "2262813305": "indoor",
     "2262811062": "indoor",
     "2262809746": "indoor",
@@ -1060,17 +1058,6 @@
       "website": "http://www.starbucks.com.hk/",
       "mapkit": "NO",
       "contact_source": "Chrome (address)"
-    },
-    "2218815900": {
-      "name_en": "SUSHI IMA ODDS ANA TEN",
-      "name_zh": "今鮨天穴",
-      "district": "Central/Western",
-      "address": "SHOP G2, G/F., STANDARD CHARTERED BANK BUILDING, 4-4A DES VOEUX ROAD CENTRAL, CENTRAL, HONG KONG",
-      "seating": "indoor",
-      "telephone": "+852 2891 3988",
-      "website": "https://lubuds.com/zh/odds-standard-chartered-bank-building-central/",
-      "mapkit": "YES - both",
-      "contact_source": "MapKit"
     },
     "2218803231": {
       "name_en": "Santorini",
@@ -3468,17 +3455,6 @@
       "telephone": "+852 3480 9132",
       "website": "http://www.facebook.com/boundkowloon/",
       "mapkit": "YES - both",
-      "contact_source": "MapKit"
-    },
-    "2262814849": {
-      "name_en": "CAFE 100%",
-      "name_zh": "百份百餐廳",
-      "district": "Mong Kok",
-      "address": "SHOP G71-73 (PORTION A) , G/F, METRO HARBOUR PLAZA, 8 FUK LEE STREET, TAI KOK TSUI, KOWLOON",
-      "seating": "indoor",
-      "telephone": "+852 3168 5010",
-      "website": "https://sky100.com.hk/en/more/experience/cafe100-by-the-ritz-carlton",
-      "mapkit": "YES - telephone only",
       "contact_source": "MapKit"
     },
     "2262813305": {
@@ -8640,17 +8616,6 @@
       "mapkit": "YES - both",
       "contact_source": "MapKit"
     },
-    "2253804356": {
-      "name_en": "ITAMAMA BISTRO & Tao Classic",
-      "name_zh": "ITAMAMA BISTRO & Tao Classic",
-      "district": "Wong Tai Sin",
-      "address": "SHOP U210, U211 & U213(PORTION A), UG2/F, ZONE B LOK FU PLACE, 198 JUNCTION ROAD, WANG TAU HOM, WONG TAI SIN, KOWLOON",
-      "seating": null,
-      "telephone": "3168 1376",
-      "website": "https://www.tasteofasia.com.hk/brand/itamama",
-      "mapkit": "NO",
-      "contact_source": "Chrome (address)"
-    },
     "2253804806": {
       "name_en": "ITAMOMO CAFE",
       "name_zh": "意樂餐廳",
@@ -11340,6 +11305,17 @@
       "name_zh": "SHACK TAPAZAKA",
       "district": "Wan Chai",
       "address": "SHOP A, G/F., NO. 1 YIU WA STREET, CAUSEWAY BAY, HONG KONG",
+      "seating": null,
+      "telephone": null,
+      "website": null,
+      "mapkit": null,
+      "contact_source": null
+    },
+    "2293801401": {
+      "name_en": "耀仔記",
+      "name_zh": "耀仔記",
+      "district": "Tuen Mun",
+      "address": "DD 132, LOT 603 AND THE OUTSIDE SEATING ACCOMMODATION AT SHOP FRONT, GROUND FLOOR (MAJOR PORTION), BLOCK A, 35 TSZ TIN ROAD, TUEN MUN, NEW TERRITORIES",
       "seating": null,
       "telephone": null,
       "website": null,
