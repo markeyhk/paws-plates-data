@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-11",
+  "updated": "2026-11-12",
   "arrangements": {
     "2218818820": "indoor",
     "3118805563": "indoor",
@@ -3479,17 +3479,6 @@
       "mapkit": "YES - both",
       "contact_source": "MapKit"
     },
-    "2262814353": {
-      "name_en": "Cafe 100%",
-      "name_zh": "百份百餐廳",
-      "district": "Mong Kok",
-      "address": "SHOP G01-G03 & G05 (PORTION A), G/F, 88 BEECH STREET, PARK SUMMIT, TAI KOK TSUI, KOWLOON",
-      "seating": null,
-      "telephone": "+852 2261 4100",
-      "website": "https://www.tasteofasia.com.hk/brand/cafe-100",
-      "mapkit": "YES - both",
-      "contact_source": "MapKit"
-    },
     "2262811062": {
       "name_en": "Café Locomotive Express",
       "name_zh": "火車頭越南餐室",
@@ -4423,17 +4412,6 @@
       "telephone": "+852 2367 3333",
       "website": "https://www.facebook.com/msquarehongkong",
       "mapkit": "YES - both",
-      "contact_source": "MapKit"
-    },
-    "2298002054": {
-      "name_en": "MAN WING KEE RESTAURANT",
-      "name_zh": "文穎記小廚",
-      "district": "Sai Kung",
-      "address": "G/F., 26 HANG HAU RESITE VILLAGE, TSEUNG KWAN O, SAI KUNG, NEW TERRITORIES",
-      "seating": null,
-      "telephone": "+852 2335 5099",
-      "website": null,
-      "mapkit": "YES - telephone only",
       "contact_source": "MapKit"
     },
     "2298803749": {
@@ -7989,17 +7967,6 @@
       "mapkit": "YES - telephone only",
       "contact_source": "MapKit"
     },
-    "2212822335": {
-      "name_en": "Milk Cafe",
-      "name_zh": "牛奶冰室",
-      "district": "Wan Chai",
-      "address": "SHOP NO. G04 (PORTION A), G/F, CAUSEWAY BAY PLAZA 2, 463-483 LOCKHART ROAD, CAUSEWAY BAY, HONG KONG",
-      "seating": null,
-      "telephone": "+852 2631 2347",
-      "website": "https://www.tasteofasia.com.hk/brand/milk-cafe",
-      "mapkit": "YES - both",
-      "contact_source": "MapKit"
-    },
     "2212818004": {
       "name_en": "NADAGOGO YAKITORI IZAKAYA",
       "name_zh": "灘五鄉燒鳥居酒屋",
@@ -10120,17 +10087,6 @@
       "seating": "indoor",
       "telephone": "+852 5941 4236",
       "website": "http://instagram.com/tadaimahk",
-      "mapkit": "YES - both",
-      "contact_source": "MapKit"
-    },
-    "2294811144": {
-      "name_en": "TAKANO RAMEN",
-      "name_zh": "多賀野",
-      "district": "Yuen Long",
-      "address": "SHOP NO. 1026, LEVEL 1, YOHO MALL I, 9 LONG YAT ROAD, YUEN LONG, NEW TERRITORIES",
-      "seating": null,
-      "telephone": "+852 3758 2223",
-      "website": "https://www.tastegourmet.co/zh_HK/restaurant/10/Takano-Ramen",
       "mapkit": "YES - both",
       "contact_source": "MapKit"
     },

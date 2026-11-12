@@ -1,42 +1,47 @@
 {
   "state": "updated",
   "message": "",
-  "last_checked_hkt": "2026-11-11 19:55",
-  "fehd_date": "November 11",
-  "total": 995,
+  "last_checked_hkt": "2026-11-12 20:51",
+  "fehd_date": "November 12",
+  "total": 991,
   "last_change": {
-    "date": "2026-11-11",
-    "fehd_date": "November 11",
-    "added": [
-      {
-        "licence": "2293801401",
-        "en": "耀仔記",
-        "tc": "耀仔記",
-        "district": "Tuen Mun"
-      }
-    ],
+    "date": "2026-11-12",
+    "fehd_date": "November 12",
+    "added": [],
     "removed": [
       {
-        "licence": "2218815900",
-        "en": "SUSHI IMA ODDS ANA TEN",
-        "tc": "今鮨天穴",
-        "seating": "indoor"
-      },
-      {
-        "licence": "2253804356",
-        "en": "ITAMAMA BISTRO & Tao Classic",
-        "tc": "ITAMAMA BISTRO & Tao Classic",
+        "licence": "2212822335",
+        "en": "Milk Cafe",
+        "tc": "牛奶冰室",
         "seating": ""
       },
       {
-        "licence": "2262814849",
-        "en": "CAFE 100%",
+        "licence": "2262814353",
+        "en": "Cafe 100%",
         "tc": "百份百餐廳",
-        "seating": "indoor"
+        "seating": ""
+      },
+      {
+        "licence": "2294811144",
+        "en": "TAKANO RAMEN",
+        "tc": "多賀野",
+        "seating": ""
+      },
+      {
+        "licence": "2298002054",
+        "en": "MAN WING KEE RESTAURANT",
+        "tc": "文穎記小廚",
+        "seating": ""
       }
     ]
   },
   "history": [
+    {
+      "checked": "2026-11-12 20:51",
+      "fehd_date": "November 12",
+      "added": 0,
+      "removed": 4
+    },
     {
       "checked": "2026-11-11 19:55",
       "fehd_date": "November 11",
@@ -149,12 +154,6 @@
       "checked": "2026-09-28 18:59",
       "fehd_date": "September 28",
       "added": 1,
-      "removed": 1
-    },
-    {
-      "checked": "2026-09-24 17:21",
-      "fehd_date": "September 24",
-      "added": 0,
       "removed": 1
     }
   ]
