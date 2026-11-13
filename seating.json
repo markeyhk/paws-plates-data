@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-12",
+  "updated": "2026-11-13",
   "arrangements": {
     "2218818820": "indoor",
     "3118805563": "indoor",
@@ -220,6 +220,7 @@
     "3115800895": "indoor",
     "2215802495": "indoor",
     "2215801261": "indoor",
+    "2215800541": "indoor",
     "2215802316": "indoor",
     "2215801474": "indoor",
     "2215802200": "indoor",
@@ -6025,7 +6026,7 @@
       "name_zh": "EL CHARRO MEXICAN CANTINA",
       "district": "Southern",
       "address": "SHOP 208, THE ARCADE, 100 CYBERPORT ROAD, CYBERPORT, HONG KONG",
-      "seating": null,
+      "seating": "indoor",
       "telephone": null,
       "website": "https://www.facebook.com/elcharrocyberport/",
       "mapkit": "NO",
