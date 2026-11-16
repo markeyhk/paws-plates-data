@@ -1,41 +1,29 @@
 {
-  "state": "up_to_date",
-  "message": "FEHD re-dated to November 13; no restaurants changed.",
-  "last_checked_hkt": "2026-11-13 20:18",
-  "fehd_date": "November 13",
-  "total": 991,
+  "state": "updated",
+  "message": "",
+  "last_checked_hkt": "2026-11-16 20:51",
+  "fehd_date": "November 16",
+  "total": 992,
   "last_change": {
-    "date": "2026-11-12",
-    "fehd_date": "November 12",
-    "added": [],
-    "removed": [
+    "date": "2026-11-16",
+    "fehd_date": "November 16",
+    "added": [
       {
-        "licence": "2212822335",
-        "en": "Milk Cafe",
-        "tc": "牛奶冰室",
-        "seating": ""
-      },
-      {
-        "licence": "2262814353",
-        "en": "Cafe 100%",
-        "tc": "百份百餐廳",
-        "seating": ""
-      },
-      {
-        "licence": "2294811144",
-        "en": "TAKANO RAMEN",
-        "tc": "多賀野",
-        "seating": ""
-      },
-      {
-        "licence": "2298002054",
-        "en": "MAN WING KEE RESTAURANT",
-        "tc": "文穎記小廚",
-        "seating": ""
+        "licence": "3151802770",
+        "en": "Kuri Cafe",
+        "tc": "Kuri Cafe",
+        "district": "Kwun Tong"
       }
-    ]
+    ],
+    "removed": []
   },
   "history": [
+    {
+      "checked": "2026-11-16 20:51",
+      "fehd_date": "November 16",
+      "added": 1,
+      "removed": 0
+    },
     {
       "checked": "2026-11-12 20:51",
       "fehd_date": "November 12",
@@ -149,12 +137,6 @@
       "fehd_date": "September 29",
       "added": 1,
       "removed": 0
-    },
-    {
-      "checked": "2026-09-28 18:59",
-      "fehd_date": "September 28",
-      "added": 1,
-      "removed": 1
     }
   ]
 }

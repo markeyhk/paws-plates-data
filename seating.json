@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-13",
+  "updated": "2026-11-16",
   "arrangements": {
     "2218818820": "indoor",
     "3118805563": "indoor",
@@ -11273,6 +11273,17 @@
       "name_zh": "耀仔記",
       "district": "Tuen Mun",
       "address": "DD 132, LOT 603 AND THE OUTSIDE SEATING ACCOMMODATION AT SHOP FRONT, GROUND FLOOR (MAJOR PORTION), BLOCK A, 35 TSZ TIN ROAD, TUEN MUN, NEW TERRITORIES",
+      "seating": null,
+      "telephone": null,
+      "website": null,
+      "mapkit": null,
+      "contact_source": null
+    },
+    "3151802770": {
+      "name_en": "Kuri Cafe",
+      "name_zh": "Kuri Cafe",
+      "district": "Kwun Tong",
+      "address": "SHOP T104A & T104B, G/F, TBG MALL, TAK BO GARDEN, 3 NGAU TAU KOK ROAD, KOWLOON",
       "seating": null,
       "telephone": null,
       "website": null,
