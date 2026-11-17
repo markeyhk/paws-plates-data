@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-16",
+  "updated": "2026-11-17",
   "arrangements": {
     "2218818820": "indoor",
     "3118805563": "indoor",
@@ -11284,6 +11284,17 @@
       "name_zh": "Kuri Cafe",
       "district": "Kwun Tong",
       "address": "SHOP T104A & T104B, G/F, TBG MALL, TAK BO GARDEN, 3 NGAU TAU KOK ROAD, KOWLOON",
+      "seating": null,
+      "telephone": null,
+      "website": null,
+      "mapkit": null,
+      "contact_source": null
+    },
+    "2292807004": {
+      "name_en": "COZY COFFEE",
+      "name_zh": "COZY COFFEE",
+      "district": "Tsuen Wan",
+      "address": "UNIT 117,  1/F, THE MILLS, NO. 45 PAK TIN PAR STREET, TSUEN WAN, NEW TERRITORIES",
       "seating": null,
       "telephone": null,
       "website": null,
