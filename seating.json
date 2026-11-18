@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-17",
+  "updated": "2026-11-18",
   "arrangements": {
     "2218818820": "indoor",
     "3118805563": "indoor",
@@ -5613,17 +5613,6 @@
       "website": "https://instagram.com/minimal_cafehk?utm_medium=copy_link",
       "mapkit": "NO",
       "contact_source": "Chrome"
-    },
-    "2263809354": {
-      "name_en": "Milk Cafe",
-      "name_zh": "牛奶冰室",
-      "district": "Sham Shui Po",
-      "address": "SHOP NO. 105, 1/F, SOHO WEST, NO. 10 LAI YING STREET, WEST KOWLOON, KOWLOON",
-      "seating": null,
-      "telephone": "+852 2347 5298",
-      "website": "https://www.tasteofasia.com.hk/brand/milk-cafe",
-      "mapkit": "YES - both",
-      "contact_source": "MapKit"
     },
     "2263807808": {
       "name_en": "Moon Palace",
@@ -11295,6 +11284,28 @@
       "name_zh": "COZY COFFEE",
       "district": "Tsuen Wan",
       "address": "UNIT 117,  1/F, THE MILLS, NO. 45 PAK TIN PAR STREET, TSUEN WAN, NEW TERRITORIES",
+      "seating": null,
+      "telephone": null,
+      "website": null,
+      "mapkit": null,
+      "contact_source": null
+    },
+    "3152804199": {
+      "name_en": "YONNA YONNA Gelato",
+      "name_zh": "YONNA YONNA Gelato",
+      "district": "Kowloon City",
+      "address": "SHOP NO. G16, G/F., TOWER II, THE TWINS, 12 MUK CHUI STREET, KAI TAK, KOWLOON",
+      "seating": null,
+      "telephone": null,
+      "website": null,
+      "mapkit": null,
+      "contact_source": null
+    },
+    "2297811066": {
+      "name_en": "Zen By Tera",
+      "name_zh": "Zen By Tera",
+      "district": "Sha Tin",
+      "address": "SHOP 2130, LEVEL 2, MOSTOWN, MA ON SHAN, SHA TIN, NEW TERRITORIES",
       "seating": null,
       "telephone": null,
       "website": null,

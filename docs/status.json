@@ -1,23 +1,42 @@
 {
   "state": "updated",
   "message": "",
-  "last_checked_hkt": "2026-11-17 21:33",
-  "fehd_date": "November 17",
-  "total": 993,
+  "last_checked_hkt": "2026-11-18 21:09",
+  "fehd_date": "November 18",
+  "total": 994,
   "last_change": {
-    "date": "2026-11-17",
-    "fehd_date": "November 17",
+    "date": "2026-11-18",
+    "fehd_date": "November 18",
     "added": [
       {
-        "licence": "2292807004",
-        "en": "COZY COFFEE",
-        "tc": "COZY COFFEE",
-        "district": "Tsuen Wan"
+        "licence": "3152804199",
+        "en": "YONNA YONNA Gelato",
+        "tc": "YONNA YONNA Gelato",
+        "district": "Kowloon City"
+      },
+      {
+        "licence": "2297811066",
+        "en": "Zen By Tera",
+        "tc": "Zen By Tera",
+        "district": "Sha Tin"
       }
     ],
-    "removed": []
+    "removed": [
+      {
+        "licence": "2263809354",
+        "en": "Milk Cafe",
+        "tc": "牛奶冰室",
+        "seating": ""
+      }
+    ]
   },
   "history": [
+    {
+      "checked": "2026-11-18 21:09",
+      "fehd_date": "November 18",
+      "added": 2,
+      "removed": 1
+    },
     {
       "checked": "2026-11-17 21:33",
       "fehd_date": "November 17",
@@ -131,12 +150,6 @@
       "fehd_date": "October 2",
       "added": 0,
       "removed": 2
-    },
-    {
-      "checked": "2026-09-30 18:32",
-      "fehd_date": "September 30",
-      "added": 3,
-      "removed": 0
     }
   ]
 }
