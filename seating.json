@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-18",
+  "updated": "2026-11-19",
   "arrangements": {
     "2218818820": "indoor",
     "3118805563": "indoor",
@@ -11306,6 +11306,17 @@
       "name_zh": "Zen By Tera",
       "district": "Sha Tin",
       "address": "SHOP 2130, LEVEL 2, MOSTOWN, MA ON SHAN, SHA TIN, NEW TERRITORIES",
+      "seating": null,
+      "telephone": null,
+      "website": null,
+      "mapkit": null,
+      "contact_source": null
+    },
+    "2297811039": {
+      "name_en": "愛味道",
+      "name_zh": "I TASTY",
+      "district": "Sha Tin",
+      "address": "UNIT S003C, G/F, BUILDING 1E, PHASE ONE, HONG KONG SCIENCE PARK, TAI PO TOWN LOT NO.171, PAK SHEK KOK, NEW TERRITORIES",
       "seating": null,
       "telephone": null,
       "website": null,

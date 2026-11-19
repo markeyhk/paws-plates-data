@@ -1,36 +1,29 @@
 {
   "state": "updated",
   "message": "",
-  "last_checked_hkt": "2026-11-18 21:09",
-  "fehd_date": "November 18",
-  "total": 994,
+  "last_checked_hkt": "2026-11-19 21:22",
+  "fehd_date": "November 19",
+  "total": 995,
   "last_change": {
-    "date": "2026-11-18",
-    "fehd_date": "November 18",
+    "date": "2026-11-19",
+    "fehd_date": "November 19",
     "added": [
       {
-        "licence": "3152804199",
-        "en": "YONNA YONNA Gelato",
-        "tc": "YONNA YONNA Gelato",
-        "district": "Kowloon City"
-      },
-      {
-        "licence": "2297811066",
-        "en": "Zen By Tera",
-        "tc": "Zen By Tera",
+        "licence": "2297811039",
+        "en": "愛味道",
+        "tc": "I TASTY",
         "district": "Sha Tin"
       }
     ],
-    "removed": [
-      {
-        "licence": "2263809354",
-        "en": "Milk Cafe",
-        "tc": "牛奶冰室",
-        "seating": ""
-      }
-    ]
+    "removed": []
   },
   "history": [
+    {
+      "checked": "2026-11-19 21:22",
+      "fehd_date": "November 19",
+      "added": 1,
+      "removed": 0
+    },
     {
       "checked": "2026-11-18 21:09",
       "fehd_date": "November 18",
@@ -144,12 +137,6 @@
       "fehd_date": "October 6",
       "added": 2,
       "removed": 0
-    },
-    {
-      "checked": "2026-10-02 18:33",
-      "fehd_date": "October 2",
-      "added": 0,
-      "removed": 2
     }
   ]
 }
