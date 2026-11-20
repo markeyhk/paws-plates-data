@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-19",
+  "updated": "2026-11-20",
   "arrangements": {
     "2218818820": "indoor",
     "3118805563": "indoor",
@@ -375,7 +375,8 @@
     "3161808504": "outdoor",
     "2263809071": "indoor",
     "2297810221": "indoor",
-    "3152804047": "indoor"
+    "3152804047": "indoor",
+    "2297811039": "indoor"
   },
   "restaurants": {
     "3118811827": {
@@ -11317,7 +11318,7 @@
       "name_zh": "I TASTY",
       "district": "Sha Tin",
       "address": "UNIT S003C, G/F, BUILDING 1E, PHASE ONE, HONG KONG SCIENCE PARK, TAI PO TOWN LOT NO.171, PAK SHEK KOK, NEW TERRITORIES",
-      "seating": null,
+      "seating": "indoor",
       "telephone": null,
       "website": null,
       "mapkit": null,
