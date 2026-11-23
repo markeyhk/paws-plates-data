@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-20",
+  "updated": "2026-11-23",
   "arrangements": {
     "2218818820": "indoor",
     "3118805563": "indoor",
@@ -203,7 +203,6 @@
     "2297809360": "indoor",
     "2297804286": "indoor",
     "2263805033": "indoor",
-    "2263808148": "indoor",
     "2263809099": "indoor",
     "3163802281": "indoor",
     "3163802625": "indoor",
@@ -239,7 +238,6 @@
     "2295804121": "indoor",
     "3195801546": "indoor",
     "2295001652": "indoor",
-    "2292810040": "indoor",
     "3192803073": "indoor",
     "2292806302": "indoor",
     "3192802441": "indoor",
@@ -5461,17 +5459,6 @@
       "mapkit": "NO",
       "contact_source": "Chrome (address)"
     },
-    "2263808148": {
-      "name_en": "CAFE 100% & Chicken Factory",
-      "name_zh": "百份百餐廳 & Chicken Factory",
-      "district": "Sham Shui Po",
-      "address": "SHOP NO. L2-116, 2/F, V WALK, 28 SHAM MONG ROAD, SHAM SHUI PO, KOWLOON",
-      "seating": "indoor",
-      "telephone": "+852 2385 1312",
-      "website": null,
-      "mapkit": "YES - telephone only",
-      "contact_source": "MapKit"
-    },
     "2263809099": {
       "name_en": "CHILL",
       "name_zh": "越",
@@ -6514,17 +6501,6 @@
       "seating": null,
       "telephone": "+852 9657 0700",
       "website": "https://shop.ichefpos.com/store/ZQ0N-hnY",
-      "mapkit": "YES - both",
-      "contact_source": "MapKit"
-    },
-    "2292810040": {
-      "name_en": "CAFE 100%",
-      "name_zh": "百份百餐廳",
-      "district": "Tsuen Wan",
-      "address": "SHOP NO. G23, G/F, CITYWALK, NO. 1 YEUNG UK ROAD, TSUEN WAN, NEW TERRITORIES",
-      "seating": "indoor",
-      "telephone": "+852 3542 5882",
-      "website": "https://www.citywalk.com.hk/en/Dining/394",
       "mapkit": "YES - both",
       "contact_source": "MapKit"
     },
@@ -11319,6 +11295,17 @@
       "district": "Sha Tin",
       "address": "UNIT S003C, G/F, BUILDING 1E, PHASE ONE, HONG KONG SCIENCE PARK, TAI PO TOWN LOT NO.171, PAK SHEK KOK, NEW TERRITORIES",
       "seating": "indoor",
+      "telephone": null,
+      "website": null,
+      "mapkit": null,
+      "contact_source": null
+    },
+    "2213066983": {
+      "name_en": "BASMATI",
+      "name_zh": "BASMATI",
+      "district": "Central/Western",
+      "address": "1/F., SAN TOI BUILDING, 137-139 CONNAUGHT ROAD CENTRAL, CENTRAL, HONG KONG",
+      "seating": null,
       "telephone": null,
       "website": null,
       "mapkit": null,

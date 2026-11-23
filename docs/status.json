@@ -1,23 +1,42 @@
 {
-  "state": "up_to_date",
-  "message": "FEHD re-dated to November 20; no restaurants changed.",
-  "last_checked_hkt": "2026-11-20 21:03",
-  "fehd_date": "November 20",
-  "total": 995,
+  "state": "updated",
+  "message": "",
+  "last_checked_hkt": "2026-11-23 22:48",
+  "fehd_date": "November 23",
+  "total": 994,
   "last_change": {
-    "date": "2026-11-19",
-    "fehd_date": "November 19",
+    "date": "2026-11-23",
+    "fehd_date": "November 23",
     "added": [
       {
-        "licence": "2297811039",
-        "en": "愛味道",
-        "tc": "I TASTY",
-        "district": "Sha Tin"
+        "licence": "2213066983",
+        "en": "BASMATI",
+        "tc": "BASMATI",
+        "district": "Central/Western"
       }
     ],
-    "removed": []
+    "removed": [
+      {
+        "licence": "2263808148",
+        "en": "CAFE 100% & Chicken Factory",
+        "tc": "百份百餐廳 & Chicken Factory",
+        "seating": "indoor"
+      },
+      {
+        "licence": "2292810040",
+        "en": "CAFE 100%",
+        "tc": "百份百餐廳",
+        "seating": "indoor"
+      }
+    ]
   },
   "history": [
+    {
+      "checked": "2026-11-23 22:48",
+      "fehd_date": "November 23",
+      "added": 1,
+      "removed": 2
+    },
     {
       "checked": "2026-11-19 21:22",
       "fehd_date": "November 19",
@@ -131,12 +150,6 @@
       "fehd_date": "October 8",
       "added": 1,
       "removed": 1
-    },
-    {
-      "checked": "2026-10-06 19:19",
-      "fehd_date": "October 6",
-      "added": 2,
-      "removed": 0
     }
   ]
 }
