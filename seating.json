@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-24",
+  "updated": "2026-11-25",
   "arrangements": {
     "2218818820": "indoor",
     "3118805563": "indoor",
@@ -9539,17 +9539,6 @@
       "website": "https://www.facebook.com/samchaancafe/",
       "mapkit": "YES - both",
       "contact_source": "MapKit"
-    },
-    "2261812192": {
-      "name_en": "Shan Chai Kee Restaurant",
-      "name_zh": "深仔記茶餐廳",
-      "district": "Yau Tsim",
-      "address": "SHOP A, G/F, KOWLOON CENTRE, 29-39 ASHLEY ROAD, TSIM SHA TSUI, KOWLOON",
-      "seating": null,
-      "telephone": "9377 0072",
-      "website": null,
-      "mapkit": "NO",
-      "contact_source": "Chrome (address)"
     },
     "3161807820": {
       "name_en": "She Says",

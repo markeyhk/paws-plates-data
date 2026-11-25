@@ -1,36 +1,29 @@
 {
-  "state": "up_to_date",
-  "message": "FEHD re-dated to November 24; no restaurants changed.",
-  "last_checked_hkt": "2026-11-24 22:56",
-  "fehd_date": "November 24",
-  "total": 994,
+  "state": "updated",
+  "message": "",
+  "last_checked_hkt": "2026-11-25 22:30",
+  "fehd_date": "November 25",
+  "total": 993,
   "last_change": {
-    "date": "2026-11-23",
-    "fehd_date": "November 23",
-    "added": [
-      {
-        "licence": "2213066983",
-        "en": "BASMATI",
-        "tc": "BASMATI",
-        "district": "Central/Western"
-      }
-    ],
+    "date": "2026-11-25",
+    "fehd_date": "November 25",
+    "added": [],
     "removed": [
       {
-        "licence": "2263808148",
-        "en": "CAFE 100% & Chicken Factory",
-        "tc": "百份百餐廳 & Chicken Factory",
-        "seating": "indoor"
-      },
-      {
-        "licence": "2292810040",
-        "en": "CAFE 100%",
-        "tc": "百份百餐廳",
-        "seating": "indoor"
+        "licence": "2261812192",
+        "en": "Shan Chai Kee Restaurant",
+        "tc": "深仔記茶餐廳",
+        "seating": ""
       }
     ]
   },
   "history": [
+    {
+      "checked": "2026-11-25 22:30",
+      "fehd_date": "November 25",
+      "added": 0,
+      "removed": 1
+    },
     {
       "checked": "2026-11-23 22:48",
       "fehd_date": "November 23",
@@ -143,12 +136,6 @@
       "checked": "2026-10-09 19:22",
       "fehd_date": "October 9",
       "added": 4,
-      "removed": 1
-    },
-    {
-      "checked": "2026-10-08 19:25",
-      "fehd_date": "October 8",
-      "added": 1,
       "removed": 1
     }
   ]
