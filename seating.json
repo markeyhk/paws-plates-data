@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-25",
+  "updated": "2026-11-26",
   "arrangements": {
     "2218818820": "indoor",
     "3118805563": "indoor",
@@ -11294,6 +11294,28 @@
       "name_zh": "BASMATI",
       "district": "Central/Western",
       "address": "1/F., SAN TOI BUILDING, 137-139 CONNAUGHT ROAD CENTRAL, CENTRAL, HONG KONG",
+      "seating": null,
+      "telephone": null,
+      "website": null,
+      "mapkit": null,
+      "contact_source": null
+    },
+    "2298000784": {
+      "name_en": "JASPAS BAR & GRILL",
+      "name_zh": "JASPAS BAR & GRILL",
+      "district": "Sai Kung",
+      "address": "G/F., 13, SHA TSUI PATH AND THE OUTSIDE SEATING ACCOMMODATION AT SHOP FRONT, SAI KUNG, NEW TERRITORIES",
+      "seating": null,
+      "telephone": null,
+      "website": null,
+      "mapkit": null,
+      "contact_source": null
+    },
+    "2297810814": {
+      "name_en": "荷里活冰室",
+      "name_zh": "荷里活冰室",
+      "district": "Sha Tin",
+      "address": "SHOP NO. 110B, 1/F, WE GO MALL, 16 PO TAI STREET, MA ON SHAN, NEW TERRITORIES",
       "seating": null,
       "telephone": null,
       "website": null,

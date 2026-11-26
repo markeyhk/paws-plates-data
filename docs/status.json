@@ -1,23 +1,35 @@
 {
   "state": "updated",
   "message": "",
-  "last_checked_hkt": "2026-11-25 22:30",
-  "fehd_date": "November 25",
-  "total": 993,
+  "last_checked_hkt": "2026-11-26 21:58",
+  "fehd_date": "November 26",
+  "total": 995,
   "last_change": {
-    "date": "2026-11-25",
-    "fehd_date": "November 25",
-    "added": [],
-    "removed": [
+    "date": "2026-11-26",
+    "fehd_date": "November 26",
+    "added": [
       {
-        "licence": "2261812192",
-        "en": "Shan Chai Kee Restaurant",
-        "tc": "深仔記茶餐廳",
-        "seating": ""
+        "licence": "2298000784",
+        "en": "JASPAS BAR & GRILL",
+        "tc": "JASPAS BAR & GRILL",
+        "district": "Sai Kung"
+      },
+      {
+        "licence": "2297810814",
+        "en": "荷里活冰室",
+        "tc": "荷里活冰室",
+        "district": "Sha Tin"
       }
-    ]
+    ],
+    "removed": []
   },
   "history": [
+    {
+      "checked": "2026-11-26 21:58",
+      "fehd_date": "November 26",
+      "added": 2,
+      "removed": 0
+    },
     {
       "checked": "2026-11-25 22:30",
       "fehd_date": "November 25",
@@ -131,12 +143,6 @@
       "fehd_date": "October 15",
       "added": 1,
       "removed": 0
-    },
-    {
-      "checked": "2026-10-09 19:22",
-      "fehd_date": "October 9",
-      "added": 4,
-      "removed": 1
     }
   ]
 }
